@@ -187,7 +187,7 @@ These examples were produced with `python scripts/run_eval.py --mode live` using
 
 Query: What do COMS W3203 reviewers say about Tony Dear's exams and curve?
 
-Response: Reviewers say that Tony Dear's exams are difficult [S1, S2, S4]. They note that the exams can be challenging and may require careful thinking and problem-solving [S3]. However, reviewers also mention that the class is graded on a curve [S1, S2, S5], which helps to compensate for the extra rigor of the exams [S5]. The curve is applied to the end grade [S5] or the overall score [S1], with one reviewer mentioning that the curve is around a B+ [S1].
+Response: Reviewers say that Tony Dear's exams are difficult [S1, S2, S4]. They note that the exams can be challenging and may require careful thinking and problem-solving [S3]. However, reviewers also mention that the class is graded on a curve [S1, S2, S5], which helps to compensate for the extra rigor of the exams [S5]. One review says the curve is around a B+ [S1], while another says Dear curves the end grade rather than individual exams [S5].
 
 Source attribution:
 - [S1] COMS W3203 Discrete Mathematics | Tony Dear | review 89811 | `documents/coms-w3203-discrete-math.txt`; distance=0.408; https://culpa.info/course/397
