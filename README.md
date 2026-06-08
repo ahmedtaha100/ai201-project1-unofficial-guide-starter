@@ -277,11 +277,11 @@ Q5 is marked partial because retrieval found the main Ansaf workload chunk, but 
 
 ## AI Usage
 
-1. Planning and source collection: I directed Codex to build the project around Columbia CS course/professor reviews and to proceed without a back-and-forth approval step. Codex wrote the first full `planning.md`, discovered CULPA's public API from the site bundle, selected ten course-review sources, and wrote `scripts/collect_culpa_sources.py`. I reviewed the source list and kept the replacement of the thin COMS W3156 source with richer COMS W3157 evidence.
+1. Planning and source collection: I gave Codex the project requirements, the Columbia CS course-review domain, and the instruction to make the source decisions without waiting for approval. Codex drafted the first full `planning.md`, found CULPA's public course-review API from the site bundle, selected ten course sources, and wrote `scripts/collect_culpa_sources.py`. I reviewed the source list and kept the change from the thin COMS W3156 source to COMS W3157 because W3157 had richer workload and professor evidence.
 
-2. Retrieval implementation: I gave Codex the chunking/retrieval plan and the project requirements. Codex implemented SentenceTransformer + Chroma retrieval and then revised it after testing exposed a real W3157/W4156 retrieval failure. The change I kept was metadata-aware reranking for exact course codes and professor names.
+2. Retrieval implementation: I gave Codex the chunking strategy, retrieval requirements, and evaluation questions. Codex implemented SentenceTransformer + Chroma retrieval, printed distances and previews, and then revised the retriever after testing exposed a real W3157/W4156 failure. I reviewed the bad retrieval result and kept the metadata-aware reranking change for exact course codes and professor names.
 
-3. Generation and evaluation: I directed Codex to connect Groq, enforce grounded answers, and rerun the evaluation with live output once the key was available. Codex implemented the prompt, refusal path, distance cutoff, source attribution, Gradio UI, and `scripts/run_eval.py`. I used the live eval output in this README and kept Q5 marked partially accurate instead of making the system look better than it was.
+3. Generation and evaluation: I gave Codex the grounded-answer requirements, the Groq model choice, and the README rubric. Codex implemented the prompt, refusal path, distance cutoff, source attribution, Gradio UI, and `scripts/run_eval.py`. I used the live eval output in this README and kept Q5 marked partially accurate instead of making the system look better than it was.
 
 ## Runbook
 
