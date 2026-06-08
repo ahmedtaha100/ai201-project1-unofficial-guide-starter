@@ -1,0 +1,255 @@
+Source title: COMS W4771 Machine Learning CULPA reviews
+Source URL: https://culpa.info/course/1921
+Source type: Public CULPA course review page / API
+Domain subtopic: machine learning
+Course code: COMS W4771
+Course name: Machine Learning
+Course ID: 1921
+Total CULPA reviews reported: 51
+Reviews collected in this document: 15
+
+Professors listed on course page:
+- Tony Jebara
+- Itshack Pe'er
+- Daniel Hsu
+- Satyen Kale
+- Martin Haugh
+- Nakul Verma
+- Balaban
+- Tony Dear
+
+Student reviews:
+
+Review 1
+Review ID: 89834
+Submission date: 2026-05-17T05:24:58
+Course: COMS W4771 Machine Learning
+Professor: Tony Dear
+Rating: 5
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Machine learning is a notoriously hard class and Tony Dear is a notoriously hard professor, so the combination was about as expected. The material was highly theoretical, though there was more application in HWs than with some other profs. The class was also structured better than other ML profs (in my opinion)
+
+Take the pre requisites for this class seriously. 1) Linear algebra - Most test & theoretical HW questions were basically an exercise in how well you can APPLY linear algebra to prove theoretical ML concepts. 2) Statistics - prob/stats is fine but stat inference is really, really useful, especially for the first third of the class. It is certainly useful to know linear/multiple/logistic regression, ridge/lasso, and MLE before actually taking ML. 3) Multivariable calc - important for convex optimization (Lagrangian, gradients) and neural network back-propagation (partial derivatives/chain rule) 4) Optimization - MATH 2500 and IEOR 3609 are not strictly necessary but are pretty helpful for some parts of the course as well. If you are missing any of (1), (2), or (3), you will likely have a tough time. 
+
+Dear explains the material very very well even if a little quickly. Like with his other classes, you walk out feeling like you learned an immense amount, even if your test grades do not reflect that. As with his other courses, the curve is very forgiving, which I think is a great reason to take this class... focus on learning this stuff and do not worry about your grade too much, it ends up being fine.
+Workload notes:
+There were 6 HW assignments and three midterms, all weighted equally. The HW assignments were not super long but were very difficult and would therefore take a while to do. I liked that the last few questions of every HW were applied, (ie. coding in Python with pytorch). There was no coding at all on tests so this just felt like a fun thing to do if you were interested in seeing the concepts your were learning in action and visualized, rather than something extra. The theoretical part of the HWs would be similar to test questions and would be very difficult. The first midterm was mostly pre req material and contained only a few, relatively easy ML concepts so it ended up being far easier than the following two midterms.
+
+Review 2
+Review ID: 89723
+Submission date: 2026-05-11T20:18:21
+Course: COMS W4771 Machine Learning
+Professor: Tony Dear
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Take Tony’s class if you want to learn ML in depth. At first, you may not fully understand why you need to learn so many mathematical concepts, because they are difficult and their purpose may not be immediately obvious. But as you go deeper into the field, you will gradually build your own knowledge map and realize how useful those concepts are.
+This course mainly focuses on the mathematical foundations behind machine learning. Tony also tries to make the material more applicable by including coding questions that connect the theory to real-world applications.
+That said, this course is hard. It is one of the hardest courses I have ever taken, so you should be prepared before taking it.
+If you only want a good grade, you may want to take another professor’s version. If you want to learn something about ML but are not sure you can handle the workload, consider taking it PDF.
+Workload notes:
+Three exams in total;
+one homework every two week;
+Tony set this kind of workload for all of his classes.
+
+Review 3
+Review ID: 89349
+Submission date: 2026-04-14T14:13:09
+Course: COMS W4771 Machine Learning
+Professor: Tony Dear
+Rating: 5
+Agree/disagree/funny counts: 4/7/0
+Review text:
+Best CS professor I've had. Approachable, generous, and organized. Homeworks and exams are . . . difficult, to say the least, but everyone seems to struggle with them equally, so that your GPA won't necessarily suffer.
+Workload notes:
+Homeworks are hard, but not due often (there are only six). You don't have to attend class, which helps.
+
+Review 4
+Review ID: 88799
+Submission date: 2026-01-05T17:52:11
+Course: COMS W4771 Machine Learning
+Professor: Daniel Hsu
+Rating: 3
+Agree/disagree/funny counts: 5/0/0
+Review text:
+This is a high value course for any aspiring SWE in the age of AI — but it will probably make you miserable, and it could be run so much better.
+
+You will learn the theoretical underpinnings of the core “meat and potatoes” supervised ML methods (linear/logistic regression, neural nets, etc.). The problem is the teaching. The professor is a bad lecturer: he nonchalantly skips steps in highly abstract math, leaves out key details, and then effectively dumps the missing reasoning into the required readings, which are insanely dense. Also, he has a serious attitude problem — he can be dismissive and unkind when students ask questions, which makes it harder to engage and learn.
+
+The readings are basically hieroglyphics. I’m not exaggerating: it can take hours to get through a single page if you actually want to understand what’s going on.
+
+There’s also a big mismatch between “what you do” and “what gets graded.” The optional homework is the only place you get hands-on practice with ML in Python, so the class barely values practical skill. You can ignore the programming parts of the homework and not worry much about exam performance, because the exams are theory-heavy and don’t care whether you can implement well.
+
+Grading is harsh and the curve is absurd — it's literally curved to the C range, which is ridiculous considering how demanding the prerequisites and workload are.
+
+I ended up with a B+, but it cost me around 30 hours/week, partly because I came in rusty and had to relearn linear algebra and probability from scratch.
+
+Bottom line: great material, bad experience. Take it if you want a math-first, theory-first class and you’re willing to self-teach a lot. Don’t take it if you want a supportive instructor, clear lectures, or a class that rewards practical ML ability.
+Workload notes:
+There's 3 exams worth 90% of your grade.
+
+This class is a time sink if you want to do well.
+Lectures: expect 3+ hours per lecture to really understand (rewatching, pausing, filling gaps, re-deriving steps). 
+
+Prereq math review: if you haven’t touched linear algebra / probability / calc in years (like most people), budget ~10 hours/week just to re-learn the prereqs. The prereq expectations are kind of ridiculous because basically nobody has “fresh” mastery of all of it unless they just took those classes and actually retained them.
+
+Homework: if you want real practical skills and you actually do the programming components seriously, it can be ~20 hours per homework (of which there are 6 of).
+
+Bare minimum survival mode (to not drown / to do okay):
+-focus on lecture material and prioritize understanding 
+-do the theory parts of homework
+-do the quizzes (completion based and worth 10% of final grade)
+-do practice exam problems 
+
+Extra mile:
+-do the readings (painful, but it helps a lot for exams)
+-do the implementation homework problems (take away some practical ability from the course)
+
+Review 5
+Review ID: 88524
+Submission date: 2025-12-20T17:32:52
+Course: COMS W4771 Machine Learning
+Professor: Daniel Hsu
+Rating: 1
+Agree/disagree/funny counts: 12/0/0
+Review text:
+Avoid at all cost. The curve is non-existent. Mean will get you a C/C+ as oppose to B/B+ in other classes.
+Workload notes:
+RUN!!!!
+
+Review 6
+Review ID: 88335
+Submission date: 2025-12-15T13:33:21
+Course: COMS W4771 Machine Learning
+Professor: Daniel Hsu
+Rating: 3
+Agree/disagree/funny counts: 2/0/0
+Review text:
+Content is relative theoratical. Overall content involves lots of proof and math, it is great if you are into research and wants more theoratical foundation but less emphasis on applied side(more covered in hw but they are not accounted for grade). Lecture is average, he shut you off sometime. It is intimidating to ask questions in the first half as he will make you feel your stupid, but he is more patient and starts explaining more as people asked questions towards the end of the class. He is smart and knowledgable. I put in lots of work for this class and learned considerable amount of stuff. Proceed with cautions if you're thinking taking an easy class, he will make you regret.
+Workload notes:
+90% is exam, he ends up giving 100 to everyone on the quiz which consists of 10% of the grade. Mean for Exams are around 50 while first one is 70. He curved the second one because it was really bad(mean around 40). Not sure if he will curve the final raw score for grade cutoff, he previously mentioned he doesn't usually have to make any "artificial modification" to grade(i.e curve). Workload is vary based on your efforts, biweekly quizzes and not graded hw.
+
+Review 7
+Review ID: 87848
+Submission date: 2025-11-21T12:09:04
+Course: COMS W4771 Machine Learning
+Professor: Daniel Hsu
+Rating: 1
+Agree/disagree/funny counts: 14/0/0
+Review text:
+Don't take this class. Egotistic professor. Unhelpful content, poorly explained. No curve
+Workload notes:
+optional homework, weekly quizzes. Exams are difficult.
+
+Review 8
+Review ID: 87781
+Submission date: 2025-11-19T11:32:44
+Course: COMS W4771 Machine Learning
+Professor: Daniel Hsu
+Rating: 1
+Agree/disagree/funny counts: 10/0/0
+Review text:
+Daniel Hsu's lectures aren't great. He has prepared slides that he talked over and annotates, which means it can be hard to keep up when taking handwritten notes since I have to write down everything (plus any annotations) in the same time it takes him to talk about them (and try and listen to what he says). This was more manageable in the start of the semester, but after the material got increasingly more difficult, I couldn't keep up. I was having a hard time understanding all the lectures, and I thought maybe the issue was just that I didn't have a tablet for note taking, but it turned out almost everyone I knew in the class was similarly struggling. I've ended up having to rewatch every lecture after class so that I can follow. He's just not a great lecturer, and I'm not sure how much is really sticking.
+Workload notes:
+The exams are incredibly difficult (the second exam had a median of 40 before he curved it up a bit) and unlike the content of the class (they are much more theoretical). It is hard to feel prepared for them at all. They are also pretty much the only component of your grade.
+
+He curves the class supposedly, but the curve doesn't seem to be very generous either. Lots of people dropped the class right before the drop deadline (after the first two exams), and that presumably would bring the median grade of the class up (since we can assume most ppl who dropped did so because his grading was so harsh they were worried about failing the class or doing very poorly). I asked him if someone who had received grades around the median for the past two exam might still expect to received a B/B+ (what he had said the median of the class usually was curved to) or if they might end up with a lower grade (since being around the median before people dropping would likely mean falling below the median after people dropping), and he just said he can't see the grades of people who drop when grading. I took this to mean the dropped people aren't accounted for int he curve, and therefore, even being around the median most most of the class could lead to a low final grade. It seems that there is no winning in the class unless you are one of the best. If you start in the bottom of the class, you're worried about failing or receiving a D and drop. If you start in the middle of the class, you may end up falling well below the median in the curve for the final grade.
+
+Also, it just feels like he's petty about grading. 90% of our grade comes from exam grades, but 10% comes from multiple choice quizzes on Gradescope. Up until the 7th quiz, most people were getting everything right on them and receiving 100%s. After that, he started putting "trick" questions on them that seem designed to trip everybody up (and these questions seem to have gotten at least 75% of the class since the upper quartile of the scores on canvas didn't full marks either). I don't get why he'd what to sabotage the one part of the grading that was buoying everyone's grade just the smallest bit.
+
+Review 9
+Review ID: 87321
+Submission date: 2025-05-30T10:57:22
+Course: COMS W4771 Machine Learning
+Professor: Nakul Verma
+Rating: 2
+Agree/disagree/funny counts: 5/3/0
+Review text:
+I have mixed feelings about this class. On the one hand, Verma does well at covering a lot of content at a fast pace. I appreciate that admission is based on a math preparedness assessment so I got a sense of what I was required to know. The exams, though ominously long, at least provided many opportunities to earn points. However, I don't think this model actually imparted much lasting knowledge on me. The homeworks, while optional, were exceedingly difficult and discouraged me from even trying to solve them. This turned my studying frantic with few examples of problems at the appropriate difficulty, and exams for me became an exercise in scoring as many easy points as possible. Now, just a few weeks after the final, I don't feel that I retained much.
+
+Significantly more egregious is, as an earlier reviewer put it, the "cult of personality" following Prof. Verma. This ego often manifested into 15-minute sessions of guessing what he used to do at Amazon or getting into time-wasting battles of wits with his favorite students. I often found myself thinking about how a female professor with this level of toxicity would never be entertained, and how Verma's ego represents everything wrong with today's CS field. I hated that my learning seemed to always suffer for preservation of his egotistical nature, and I particularly resent how often he brought up that he wouldn't read/listen to course reviews—exactly why this course seems to have stagnated in its deficiencies.
+Workload notes:
+Six optional, not turned in homeworks whose difficulty greatly exceeded the material. Three exams, each worth a third of the final grade. Average for each exam hovered around or below a 50%, and nobody got above a 73 on the last exam. We got a practice exam for the first and third exams and nothing for the second because Verma couldn't be bothered to create one containing only and all relevant information for that exam.
+
+Review 10
+Review ID: 84876
+Submission date: 2024-02-19T08:00:49
+Course: COMS W4771 Machine Learning
+Professor: Daniel Hsu
+Rating: 2
+Agree/disagree/funny counts: 3/0/0
+Review text:
+What other people have said about this class is true, and I had the same expectations as everyone who has heard of ML at Columbia, so I'll talk about the professor's teaching style (I did very well in this class because I had a lot of prior ML experience; take that as you wish). 
+
+Now Prof. Hsu is an average to below average professor. He is incredibly knowledgeable, doesn't write poorly, etc. But if you want to take ML, I'd recommend not taking it with him in particular. First, because grades are basically not curved (if you care about your grades). But most importantly, beyond everything else, every component of Prof. Hsu's course beyond the homeworks and exams are just total borefests. He has a soft-to-mellow-ish voice in classes, and never really came across as interested in presenting the material properly to the students. On Ed Discussion, no matter how well thought-out your question is, he'll likely just respond with one word, and if you're lucky, a whole sentence. If you care about the charisma/presentation of the professor (which I do), you should only take ML with Hsu if there are no other options.
+Workload notes:
+-
+
+Review 11
+Review ID: 84836
+Submission date: 2024-01-22T01:45:00
+Course: COMS W4771 Machine Learning
+Professor: Nakul Verma
+Rating: 3
+Agree/disagree/funny counts: 22/1/3
+Review text:
+I believe the plethora of other reviews have covered the gist of how Verma teaches ML, but what I will try to counter in the most negative reviews is how "useless" this class is. 
+
+Most of the negative reviews say that this class focuses on the mathematical and theoretical backing behind fundamental ML models, and thus has no applicability on how to use real-world models... yes, isn't this literally what Verma said about the course on the first day of class? The course is to build that fundamental knowledge about how and why these models, at their core, are so good (or not so good) at learning. You could also say it's to give you an understanding of ML to the point that you could read literature in ML, and actually understand what the researchers are saying. If this is what you want to learn, then this class is by no means "useless." 
+
+If you are someone who doesn't care about ANY of this math, and just wants to know how to slap a pre-built PyTorch model to your favorite database, then there are plenty of other courses at Columbia that can teach you this.
+Workload notes:
+difficult. Other reviewers have already summed it up well.
+
+Review 12
+Review ID: 84657
+Submission date: 2024-01-04T17:44:57
+Course: COMS W4771 Machine Learning
+Professor: Daniel Hsu
+Rating: 4
+Agree/disagree/funny counts: 3/7/0
+Review text:
+Prof Hsu is an overall solid lecturer- he explains content clearly and his slides are comprehensive. The second half of the semester is definitely more challenging but also, in my opinion, super interesting. I would definitely recommend a strong linear algebra, calculus, and stats background as much of the class content relies heavily on these areas. That being said, Prof Hsu did a decent job of breaking down difficult proofs and derivations and was very receptive to questions. However, there were several times I was lost during lectures and had to revisit the material several times to really understand it. All in all, a very comprehensive and in-depth introduction to supervised machine learning.
+Workload notes:
+Homework assignments were quite challenging but in my opinion, nicely complemented the material covered in lecture. We were also allowed to complete the assignments with a partner which made it much more doable. Exams were very tough and required an in-depth knowledge of the math behind the various algorithms. We were allowed a cheat sheet but that won't really help you. Grading on the exams, however, was very generous with lots of partial credit being awarded even if you got the answer wrong (as long as you showed sufficient work).
+
+Review 13
+Review ID: 84518
+Submission date: 2023-12-16T14:46:29
+Course: COMS W4771 Machine Learning
+Professor: Daniel Hsu
+Rating: 1
+Agree/disagree/funny counts: 4/0/0
+Review text:
+Firstly, the professor is very rude and unapproachable which is a bad thing given the course is math heavy and requires lot of help. He is inconsiderate. I approached him with some issues I was facing with the course and he disregarded them as if they were nothing.
+Secondly, the TAs are not helpful. They are mean and make us feel stupid when a doubt is asked. They seem to only check the final answers while grading the assignments and exams instead of checking the approach. 
+The professor messes up the course really badly with the order in which he teaches it. This course can definitely be a lot more enjoyable if any other professor and TAs were there. 
+All in all, the course was a nightmare. Really messed up my grades. I really had high hopes. I should've gone through reviews about the prof before taking the class. GRAVE MISTAKE.
+Workload notes:
+Assignments were math heavy. conceptual. Grading is very biased. I am 100% sure that the TAs do not read your entire answers and are really mean when requested for regrade. They do not make the student's life easy which is their JOB. Only positive is assignments are given a good amount of time before submission. 
+Take this course only if you want to play with your grades.
+
+Review 14
+Review ID: 83995
+Submission date: 2023-05-17T22:14:37
+Course: COMS W4771 Machine Learning
+Professor: Nakul Verma
+Rating: 1
+Agree/disagree/funny counts: 13/38/17
+Review text:
+Dr. Verma (he's not an actual professor) has one of the most awful courses in the school as well as a cult of personality, both of which I think he's quite proud of. This egotistical academic terrorist explains the concepts he wants to explain well and quite charismatically, the end result of which is that lots of students are gaslighted into thinking that they learned so much after getting a 20/80 on the exams. Half of lecture is spent on explaining extraneous probability/statistics proofs, a third is spent on flaming students for answering questions wrong (which he and for some reason the same group of students who always answer seem to enjoy a lot), and the rest is spent on briefly going over what a certain classification/regression technique is used for. The amount of actual machine learning material covered is quite small, but instead of diving deep into tradeoffs or use cases of a model we dive deep into convex optimization and singular value decomposition. It wouldn't be so bad if this Bayesian bully wasn't also borderline abusive to the students. One time in the section 3 lecture he spent 10 minutes grilling a student for having a "pseudo intellectual" answer to some question and then held us after class because we ran out of time. Another time he straight up threw one of his TAs under the bus in class for writing a bad question in a homework assignment as if he shouldn't also be responsible for vetting the question. Behind the scenes I've heard it's even worse (to his TAs), but apparently he has a nice guy facade in office hours. Vermamort, as he was once called on Ed, also curves and grades the homeworks quite harshly (I once got points deducted for having 1 graph with 5 plots instead of 5 graphs with 1 plot, which was a requirement not even mentioned in the assignment--another person got points deducted because I shit you not "something looked off" for a programming assignment).
+Workload notes:
+Four of the most miserable homework assignments in my life which count for an entire 40% of your grade and none of which are dropped. It's feasible to complete them spending 10 hours a week over the two-ish weeks you get if you split the work (although he doesn't allow collaboration because it "unfairly benefits people who have friends") and don't care all that much about doing well. Otherwise expect probably double the commitment, since you're typing up really hard proofs in Latex without him explicitly teaching the material you need in class. The exams are ridiculously difficult, literally impossible to finish more than 2/3 of the questions since they're so many. It is possible to try and "game" the grading a little since its a lot more lenient than the homeworks. Homework median normally in the 70s (which is honestly quite high for how difficult they are, people spend a lot of time on them), midterm median was low 30s, which he apparently thought was too high since the final exam median was in the low 20s.
+
+Review 15
+Review ID: 82792
+Submission date: 2022-12-05T21:01:12
+Course: COMS W4771 Machine Learning
+Professor: Nakul Verma
+Rating: 2
+Agree/disagree/funny counts: 14/8/7
+Review text:
+This course covers the basics of machine learning. By 'basics' this does not mean you'll actually be using anything you learn in class, but rather building them from scratch (i.e. instead of learning how to use a specific aspect of PyTorch to do impactful things, you'll just implement it from scratch). It's heavily centered around theory rather than application, and extremely focused on the mathematics.
+Workload notes:
+This class has a crazy workload. The homeworks arre incredibly difficult, long, and will take up most of your time. The material is already difficult, and these problems build on that with an extremely crazy level of complexity. 2 hours of lecture a week, maybe 15-20 hours per homework at a MINIMUM.

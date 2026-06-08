@@ -1,0 +1,238 @@
+Source title: COMS W3157 Advanced Programming CULPA reviews
+Source URL: https://culpa.info/course/4758
+Source type: Public CULPA course review page / API
+Domain subtopic: advanced programming in C/C++
+Course code: COMS W3157
+Course name: Advanced Programming
+Course ID: 4758
+Total CULPA reviews reported: 96
+Reviews collected in this document: 15
+
+Professors listed on course page:
+- Henning Schulzrinne
+- Elizabeth Sklar
+- Suhit Gupta
+- Shlomo Hershkop
+- Angelos Keromytis
+- Jae Lee
+- Stephen Edwards
+- John Hui
+- Brian Borowski
+
+Student reviews:
+
+Review 1
+Review ID: 89311
+Submission date: 2026-04-09T15:39:01
+Course: COMS W3157 Advanced Programming
+Professor: Brian Borowski
+Rating: 3
+Review text:
+I went into the class thinking it's the worst thing ever. I think the assignments are pretty similar to data structures and are not as bad. i will say the tests are very hard. expect the class average to be <50. he is not the best at explaining concepts so you will have to do a lot of self studying. he also talks VERY slow so the lectures can be very boring. i would watch the lecture recordings on 2x speed and then he sounds like hes talking at a normal speed
+Workload notes:
+programming assignments. 3 exams.
+
+Review 2
+Review ID: 89207
+Submission date: 2026-03-05T21:08:20
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 5
+Review text:
+This class was genuinely one of the best classes I've taken in my life - probably the most I've ever learned in one class. I would definitely recommend taking this class with Jae as his version really demands deep knowledge of the material, which is super useful not only if you want to understand C and systems well but also for testing your abilities to understand things deeply in general. That being said, the class can definitely be very difficult. The only reason I would consider not taking this class is if getting a 4.0 really matters a lot to you.
+Workload notes:
+7 Labs (the last 2 take a significant amount of time)
+3 exams (all very difficult but very fair in my opinion)
+The class is curved but the grade breakdown is rough due to his unique cutoffs - you really have to do extremely well to get an A, but average is curved to B+ so anything below an A is very doable.
+
+Review 3
+Review ID: 89201
+Submission date: 2026-03-05T00:05:56
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 5
+Review text:
+goated
+Workload notes:
+hard
+
+Review 4
+Review ID: 89182
+Submission date: 2026-02-28T00:57:43
+Course: COMS W3157 Advanced Programming
+Professor: Brian Borowski
+Rating: 4
+Review text:
+Over the past month, I’ve heard many of us question the purpose of this course. People asked: What are we doing here? Why are we learning SSH? Why do Makefiles have to be structured so precisely? Why do we have to use Git for homework?
+The answer is that these are foundational skills for any competent developer. In real industry work, anything larger than our homework assignments, you need to connect to remote servers, collaborate through GitHub, and write code that follows consistent conventions and style. These are the hard requirements
+I know it can feel tedious at first. When I first had to learn these tools on professional projects, I had to figure it out on my own. This course is meant to make that learning curve smoother.
+At the same time, I'd argue Professor BB did not make C easy for us. I guess the course expects us to learn C in just a few weeks, which is quite demanding. Before the course I only knew Python and Java, have to say C is quite different.
+Workload notes:
+6 hours a week.
+
+Review 5
+Review ID: 89088
+Submission date: 2026-01-30T20:06:32
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 5
+Review text:
+columbia gem
+Workload notes:
+sound the gem alarm
+
+Review 6
+Review ID: 88907
+Submission date: 2026-01-13T18:50:10
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 5
+Review text:
+I'm sure everyone has heard about this class and what to expect, but I'll be the positive one and say this has been the best class I've taken in my life. Yes, I was terrified going into it, and Jae definitely scares you when he tells us 12 hours per week is the minimum workload. However, he is also completely right in saying you get what you put into it, and you should treat this like a workout regiment. Obviously this class covers topics that aren't for everyone, but it's a requirement for a reason. I knew no C or anything about systems programming going into this class, and now I finally understand the saying "There are two types of Java programmers: those that know C and those that don't." No one has ever said this class is easy, but it is far from impossible. If you have the motivation to put in the time, you'll be rewarded for it!
+Workload notes:
+7 labs, they get progressively longer and more difficult. 7 late days total, up to 2 per lab. Lowest lab grade is dropped. Solutions are released right after the hard deadline. 3 exams, for which you get several practice exams (former exams) to study with. No exceptions for submissions past hard deadlines and no make-up exams for any reason.
+
+Review 7
+Review ID: 88886
+Submission date: 2026-01-11T18:15:13
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 4
+Review text:
+Was honestly really nervous going into the class based on the way everybody else talked about it. I was pleasantly surprised, he was a really good and detailed teacher (although he often went a few mins overtime which is annoying when you have somewhere else to be). He's very clear and the content is well explained. I definitely do feel like I learned a lot. Only issue is sometimes when he's writing code, he's too fast too keep up with and I have to rewatch the lectures. Also the TA's are amazing and there are so many office hours, please take advantage of this if you're struggling / have any questions.
+Workload notes:
+The assignments were fine, definitely Labs 6 and 7 need WAYY more time so make sure to account for that. I thought the exams were mostly fair (you HAVE to do the practice exams for prep). I do think that the labs hold too little weight for the amount of work you have to put in though...
+
+Review 8
+Review ID: 88808
+Submission date: 2026-01-06T22:25:39
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 5
+Review text:
+Jae is a fking genius
+Workload notes:
+Jae is the GOD
+
+Review 9
+Review ID: 88658
+Submission date: 2025-12-28T15:19:28
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 5
+Review text:
+The whole class is one long project masterfully broken up into a series of small labs. You go from learning the C language to implementing your own linked list to creating your own server. Super satisfying to do.
+Jae just makes the class so interesting, he explains everything super well. MAKE SURE YOU READ THE LECTURE NOTES THOUHG!!! This was my biggest mistake.
+Workload notes:
+I knew this class was going to be hard, and it was. I didn't work as much as I should have, but probably around 7 hours a week, and then a bunch for exams for cramming. But honestly workload is worth.
+
+Review 10
+Review ID: 87915
+Submission date: 2025-11-29T23:50:15
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 5
+Review text:
+I don't even know where to start with my appreciation of Jae. Jae is truly one of the best professors there is. He manages to break concepts down and explain things far better than most professors could even dream of. He has designed this course so masterfully that he packs in the perfect amount so you leave feeling like you learned the absolute most that you could without overstuffing the course.
+His lecture notes are amazing too, they neither contain too much or too little information, just right. His TAs are some of the best there is too. They are not only very smart but seem to really want to help everyone. If given an option to take Jae or another professor, take Jae. Always.
+This course isn't the easiest but in my option is far too fear mongered. I think that part of this reputation comes from the fact that the course used to have more material in it (and therefore was harder) and that the old exams are more difficult. It seems like it has gotten easier over the past five-ish years. Do not let the reputation dissuade you, what you will learn in this course is 100% worth the occasional struggle.
+In summary, Jae is a teaching God and you all should take his course.
+Workload notes:
+I'm not going to go too into depth here as many other reviews have already summed the workload up, but I will mention a couple of things.
+1) Jae starts off the course by saying that in order to do well you should be putting about 2 hours in, 6 days a week. I did not do quite this, so far I've been fine. Most people I know did not do quite that either, they have also been okay. While, yes, this course is not one you can neglect, the time expenditure isn't too crazy in my opinion (both for labs and exam prep).
+2) If you want to minimize the struggle of and time it takes to prep for exams, review the past two or so lectures in between every class. Personally I look both at Jae's lecture notes and my own notes. Don't just skim either, but take time to understand the material. This helps so much in cutting exam prep time and time to complete labs as you already know the material well.
+3) Don't worry if you leave an exam and feel like you got a 50%, most people probably did. The very generous curve will save you.
+
+Review 11
+Review ID: 87072
+Submission date: 2025-05-10T23:54:35
+Course: COMS W3157 Advanced Programming
+Professor: Brian Borowski
+Rating: 3
+Review text:
+Dr. B is very kind and approachable, but his lectures are genuinely so boring and rather unhelpful at times. He does read feedback, so maybe he'll improve in the coming semesters. In class, he'll just read off slides that go over concepts briefly before bringing up some methods and reading off the man pages, and going through his code. The class is just not organized in a beginner-friendly way; to actually understand what we were doing, I also had to supplement with Jae's notes or consult ChatGPT lol. His class does seem to cover a little more than Jae's class, which seems to focus slightly more on depth.
+TLDR: I quite enjoyed his Data Structures class, so I think it's worth it to take Data Structures with Borowski (especially because he's so approachable and easy to talk to), but go for Jae if you're doing AP.
+Workload notes:
+7 HWs around every week or two that can be done with a partner (36% of the grade). 3 exams (exam 1 and 2 each 20%, exam 3 24%). Homework took around 10 hours each. Exams were pretty tough.
+
+Review 12
+Review ID: 87071
+Submission date: 2025-05-10T23:43:58
+Course: COMS W3157 Advanced Programming
+Professor: Brian Borowski
+Rating: 1
+Review text:
+took him last semester for data structures and hes aight, but advanced programming you should take with jae. this dude straight up had little to no content worth reviewing on his slideshows. no one shows up to class and in one of the video lecture he starts counting and looks up and counts 14 people in his lecture. got so used to watching him in 2x speed on the recorded lecture that going in person for the tests and hearing him speak was disorienting. take this class with jae
+Workload notes:
+very strict when it comes to grading for tests and if you miss a semicolon you're cooked. homework assignments are aight too
+
+Review 13
+Review ID: 87009
+Submission date: 2025-05-05T22:58:54
+Course: COMS W3157 Advanced Programming
+Professor: Brian Borowski
+Rating: 3
+Review text:
+Dr. B, while a kind person, is an absolutely terrible lecturer. Lectures were boring, hard to follow, and mostly consisted of him poorly introducing a topic, reading the man pages aloud, and then live-coding some program in front of the class for 20 minutes. Lectures were also recorded, so very few people went to class. The course is broader than Jae’s (breadth over depth) and fairly interesting, but teaching quality was honestly just terrible.
+This review is AP-specific; I had him for Data Structures and thought he was fine. Overall, I am incredibly grateful that I will never be using any of these topics again and am free()ing this class immediately from my memory.
+Workload notes:
+Two midterms (20%) and a non-cumulative final (24%). Exams were difficult but fair. Homeworks took 4-8 hours and could be done with a partner.
+
+Review 14
+Review ID: 86419
+Submission date: 2025-01-13T13:43:22
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 5
+Review text:
+I stepped into 3157 with the same fear as everyone else. I walked out with a stack of knowledge, countless tricks, and... still a lingering fear. It was an intense course, but with the right approach, it’s more than manageable.
+Content:
+Yes. Jae is *that* good. You've probably heard some horror stories—and I can confirm them—but his course design and lectures are truly exceptional. In the end,
+- You will learn a lot about C
+- You will build a solid foundation in Git and UNIX
+- You will be a very careful coder, thanks to his harsh grading :(
+Are these useful? Not always, but think of it as a workout on your programming habit and attitude.
+----------
+Survival tips
+- Attend lectures in-person, and take good notes
+- Join Section 2 for extra help—it's where Jae shows his nice side (yes, it exists)
+- Do the practice exams and review solutions carefully
+- Start the labs EARLY. Debugging under pressure is not a fun sport.
+- The TAs and ListServ are incredibly helpful!
+Workload notes:
+TLDR: "Grades may not be super accurate in terms of assessing your understanding."
+– Jae Lee, Day 1
+Grading is HARSH and often binary. Just try your best.
+----------
+Assignments:
+7 assignments (called labs), each with clear guidelines
+- Lectures often hint at the general approach to a solution
+- No crazy programming gymnastics needed—if you need something, he'll give you or tell you where to look.
+- Labs 6 and 7 are significantly longer but build on earlier labs
+- Debugging is where the real time goes. The rubric is harsh, so precision matters.
+- As always, start the labs EARLY. Not because they take forever, but reinforcing concepts early pays off in this fast-paced class.
+----------
+Exams:
+Jae is an awesome exam writer, testing your understanding to the finest detail.
+- The problems aren't impossible–everything comes directly from the lectures and labs. The real challenge lies in managing stress and focusing on meticulous details.
+- Some problems offer generous partial credit. Others? Miss one part and the others crash down like an avalanche ...
+- Practice helps, but luck plays a role too. At the end of the day, we are human, not computers, not gcc -g -Wall. We make mistakes, and that’s part of what makes us human.
+----------
+Grading
+His grading system is statistically fair for a class with 400 students: on AVERAGE, good students do well, and bad students struggle. However, each of us only takes 3 exams, not 400, so this "fairness" may break down entirely on an individual scale.
+The takeaway is: Always try your best, but never over-stress about your AP grade. It's your learning and improvement that matter. Your grade is just a number; it correlates with, but doesn’t always define, your abilities.
+Also don’t lose sleep over an A+. It’s reserved for the top 3-ish unfortunately...
+
+Review 15
+Review ID: 86414
+Submission date: 2025-01-13T01:13:12
+Course: COMS W3157 Advanced Programming
+Professor: Jae Lee
+Rating: 4
+Review text:
+This class is INFAMOUS so you’ll go in scared. Jae will scare you a little more. Eventually, you’ll learn that it’s really not that bad but the tests are pretty deadly (do all 4 practice tests he provides and watch/attend all the TA review sessions. Go to class.
+This semester, like every other semester, there was a bit cheating scandal. A lot of people cheat and some of them get caught and threatened with disciplinary action.
+Workload notes:
+3 exams, and 7 labs. 6 and especially 7 are tough. Lots of people get busted for cheating on 6 and 7 and copying the code from the public repos on GitHub. Don’t do it because he’ll make you regret it. The labs are out of 87.5 (he’ll explain to you how he gets that number later). So the max you can get is 387.5/400, and the grade cutoffs are posted at the end. You won’t get an A+, you probably won’t get an A. After that, the curve gets very generous. The vast majority of people reading this will get in the B range.
+Difficulty is overhyped compared to other upper level classes, but I think it’s because this is meant to be a bridge to upper level classes. Borowski does baby you a bit and Jae does his best to make an upperclassman out of you. Even if you know a lot of the new stuff like networks and C memory management, you’ll still need to work hard and you will learn a lot (but especially if you don’t know the new stuff). Seriously, it’ll be like night and day. CS will start to make sense. Words that may have sounded like gibberish will become your new lingo.
+Finally, the cult of personality is real. You’ll love Jae sometimes, you’ll hate him other times, but most of all you’ll get why every Columbia student knows his name. In spite of everything, I still recommend him over Borowski unless you know all this stuff already or have a really rough semester scheduled. Unless you really care about having > 4.0 (rather than, let’s say, a 3.95) or can’t code in intro to Java/data structures without ChatGPT, there are no downsides to this class.

@@ -1,0 +1,92 @@
+[
+  {
+    "course_id": 3807,
+    "file": "documents/coms-w1004-intro-java.txt",
+    "reviews_collected": 15,
+    "slug": "coms-w1004-intro-java",
+    "source_url": "https://culpa.info/course/3807",
+    "subtopic": "introductory programming",
+    "total_reviews_reported": 84
+  },
+  {
+    "course_id": 4,
+    "file": "documents/coms-w3134-data-structures.txt",
+    "reviews_collected": 15,
+    "slug": "coms-w3134-data-structures",
+    "source_url": "https://culpa.info/course/4",
+    "subtopic": "core data structures",
+    "total_reviews_reported": 87
+  },
+  {
+    "course_id": 4758,
+    "file": "documents/coms-w3157-advanced-programming.txt",
+    "reviews_collected": 15,
+    "slug": "coms-w3157-advanced-programming",
+    "source_url": "https://culpa.info/course/4758",
+    "subtopic": "advanced programming in C/C++",
+    "total_reviews_reported": 96
+  },
+  {
+    "course_id": 397,
+    "file": "documents/coms-w3203-discrete-math.txt",
+    "reviews_collected": 15,
+    "slug": "coms-w3203-discrete-math",
+    "source_url": "https://culpa.info/course/397",
+    "subtopic": "proofs and discrete mathematics",
+    "total_reviews_reported": 101
+  },
+  {
+    "course_id": 664,
+    "file": "documents/coms-w4111-databases.txt",
+    "reviews_collected": 15,
+    "slug": "coms-w4111-databases",
+    "source_url": "https://culpa.info/course/664",
+    "subtopic": "databases",
+    "total_reviews_reported": 51
+  },
+  {
+    "course_id": 3105,
+    "file": "documents/coms-w4115-plt.txt",
+    "reviews_collected": 15,
+    "slug": "coms-w4115-plt",
+    "source_url": "https://culpa.info/course/3105",
+    "subtopic": "programming languages and translators",
+    "total_reviews_reported": 29
+  },
+  {
+    "course_id": 1616,
+    "file": "documents/coms-w4156-advanced-software-engineering.txt",
+    "reviews_collected": 15,
+    "slug": "coms-w4156-advanced-software-engineering",
+    "source_url": "https://culpa.info/course/1616",
+    "subtopic": "advanced software engineering",
+    "total_reviews_reported": 18
+  },
+  {
+    "course_id": 26,
+    "file": "documents/coms-w4701-artificial-intelligence.txt",
+    "reviews_collected": 15,
+    "slug": "coms-w4701-artificial-intelligence",
+    "source_url": "https://culpa.info/course/26",
+    "subtopic": "artificial intelligence",
+    "total_reviews_reported": 59
+  },
+  {
+    "course_id": 1921,
+    "file": "documents/coms-w4771-machine-learning.txt",
+    "reviews_collected": 15,
+    "slug": "coms-w4771-machine-learning",
+    "source_url": "https://culpa.info/course/1921",
+    "subtopic": "machine learning",
+    "total_reviews_reported": 51
+  },
+  {
+    "course_id": 4956,
+    "file": "documents/coms-e6111-advanced-database-systems.txt",
+    "reviews_collected": 5,
+    "slug": "coms-e6111-advanced-database-systems",
+    "source_url": "https://culpa.info/course/4956",
+    "subtopic": "graduate database systems",
+    "total_reviews_reported": 5
+  }
+]

@@ -1,0 +1,211 @@
+Source title: COMS W4701 Artificial Intelligence CULPA reviews
+Source URL: https://culpa.info/course/26
+Source type: Public CULPA course review page / API
+Domain subtopic: artificial intelligence
+Course code: COMS W4701
+Course name: Artificial Intelligence
+Course ID: 26
+Total CULPA reviews reported: 59
+Reviews collected in this document: 15
+
+Professors listed on course page:
+- Salvatore Stolfo
+- John Kender
+- Kathleen Mckeown
+- Alexander Pasik
+- German Creamer
+- Jonathan Voris
+- Ansaf Salleb-Aouissi
+- Dragomir Radev
+- Daniel Bauer
+- Tony Dear
+
+Student reviews:
+
+Review 1
+Review ID: 90016
+Submission date: 2026-05-29T19:06:31
+Course: COMS W4701 Artificial Intelligence
+Professor: Adam Lin
+Rating: 2
+Review text:
+I had heard this was an easy A class. The content was fine but he didn't make it super engaging, and because classes were late in the evening and recorded, attendance was pretty low. Some of the topics towards the end of the semester were interesting.
+Workload notes:
+5 written, 5 coding, lowest grade of each dropped. Coding HW 3 was the hardest I feel. Two non-cumulative exams that are really frustrating to prepare for. Even though he highly recommends recitations and the practice exam, the real exam is much more difficult and focuses on topics barely if at all mentioned. He curves super well I guess so lots of people ended up with an A, but it makes exams super stressful in the moment, especially because they're super long.
+
+Review 2
+Review ID: 88071
+Submission date: 2025-12-05T18:12:12
+Course: COMS W4701 Artificial Intelligence
+Professor: Ansaf Salleb-Aouissi
+Rating: 3
+Review text:
+really easy class but too easy where you don’t learn anything. going to lecture felt unproductive since you could watch the lectures in 2x speed. you could get an easy A on exams if you paid attention and woke up on time for exams. felt like i didn’t learn anything important and online videos on youtube covered the concepts in more depth. learned a lot of different concepts but none in enough detail for it to matter. take the class if you want an easy A
+Workload notes:
+exams 30% hw are both coding and conceptual
+
+Review 3
+Review ID: 87563
+Submission date: 2025-09-28T11:57:34
+Course: COMS W4701 Artificial Intelligence
+Professor: Tony Dear
+Rating: 1
+Review text:
+Dear might possibly be the worst professor I've had at Columbia so far. He made easy concepts extremely difficult to understand and did not explain concepts well at all, would highly recommend people to not take this class with Dear. Exams were extremely difficult and expected students to be able to completely code out homework assignments without providing knowledge on how.
+Workload notes:
+2 exams and homeworks every other week
+
+Review 4
+Review ID: 86955
+Submission date: 2025-05-01T21:50:29
+Course: COMS W4701 Artificial Intelligence
+Professor: Tony Dear
+Rating: 2
+Review text:
+To be frank, the exams in this class were some of the hardest I've ever taken (And I'm a CS SEAS major) and a step above the given homework problems (not great). Would put this class at the same level of difficulty as Advanced Programming, Discrete Math, and Mutlivariable Calculus. No qualms with the Professor, though - nice, approachable, willing to help as much as possible.
+Workload notes:
+Honestly, I wouldn't take this class unless you absolutely have to. It's just another tough thing to deal with.
+
+Review 5
+Review ID: 86239
+Submission date: 2024-12-31T14:27:25
+Course: COMS W4701 Artificial Intelligence
+Professor: Ansaf Salleb-Aouissi
+Rating: 4
+Review text:
+AI with Prof. Ansaf was solid. For context, I took it during the Fall 2023 semester. It served as a nice opportunity to learn concepts and strategies that serve as a basis for artificial intelligence and gradually transition to working with actual AI technology. The balance between coding and conceptual assignments also served as a way of putting these concepts we learned in lecture into practice (though they got a bit tedious at times). Though I’ve never attended her office hours, Prof. Ansaf seemed approachable. She also was fairly engaging as a lecturer.
+Workload notes:
+The class had 5 coding assignments and 5 conceptual assignments (50% total), and two exams throughout the semester (25%) that effectively served as “midterms” without any final when I took it. To my knowledge, this setup doesn’t apply anymore and the second exam had gotten pushed to later on in the semester and became a final. The assignments were staggered such that the conceptual assignment was always due before the accompanying coding assignment. The lowest coding and conceptual grades also got dropped at the time. The conceptual assignments involve calculations, short-answer, etc. related to the topics we went through for the course, while the coding assignments involved applying these concepts for Python code. The assignments we did were:
+* comparing search algorithms (breadth-first search, depth-first search, etc.) for number sliding puzzles
+* backtracking with optimization for solving sudoku puzzles
+* minimax for deciding a move for 2048
+* using a neural network for sign language sign classification
+* a 5th assignment that I unfortunately don’t have the file for at the moment as I skipped it (my apologies)
+These assignments get reused between semesters, and I would say the 2048 algorithm was the most difficult, as it involved testing out different values as part of functions that you need to implement. The sudoku and number-sliding puzzles were the second-hardest, then the neural network one was the easiest out of the four I completed for the class. The exams, however, were pretty rough. I was able to do decently on the first with moderate studying for it, but I admittedly did much worse on the second since I couldn’t finish. However, the course gets curved accordingly, and these exams take up relatively low weight compared to other classes. To that end, the work is a lot more doable to be able to get an A compared to Prof. Dear, as well as other CS classes in the department – do what you will with that information…
+
+Review 6
+Review ID: 84878
+Submission date: 2024-02-22T01:16:15
+Course: COMS W4701 Artificial Intelligence
+Professor: Tony Dear
+Rating: 5
+Review text:
+Simply one of the best and kindest professors out there.
+Workload notes:
+10-20 hours per week.
+
+Review 7
+Review ID: 84856
+Submission date: 2024-01-25T22:15:30
+Course: COMS W4701 Artificial Intelligence
+Professor: Ansaf Salleb-Aouissi
+Rating: 4
+Review text:
+Ansaf is absolutely amazing. I had her for discrete math as well and she is just so kind and really cares about her students. I absolutely recommend taking this class with her. There are two midterm exams (no final which is really nice because if gives you time to focus on your other classes at the end of the semester) and I thought they were more on the difficult side, especially because it was a time crunch, but the curve will really help you.
+Workload notes:
+Assignments (coding + written) 50%, Midterm1 25%, Midterm2 25%
+
+Review 8
+Review ID: 84011
+Submission date: 2023-05-20T01:45:09
+Course: COMS W4701 Artificial Intelligence
+Professor: Tony Dear
+Rating: 4
+Review text:
+This class is literally a copy and paste of the UC Berkeley AI course. He literally uses the same slides.
+The way he teaches the course is too heavily focused on theory and the mathematics behind AI. He's a nice guy, but the way he explains the concepts will leave you yawning and dozing off as he drones on about all the theoretical concepts, some of which never show up on the exams or homework.
+He's a nice guy, but this class should be more focused around building a fun group project using the power of AI and not all the bone dry math and theory behind it.
+I still recommend him, he's a great professor and such a sweet man.
+Workload notes:
+Homeworks are 40% and the midterm is 30%. Exams are difficult, you do need to know the material very well. Be prepared to spend a lot of time with the TAs as they explain the concepts over to you, or just teach the material to yourself.
+Assignments take FAR too long to long to get back! Seriously it would take anywhere between 3 to 4 weeks to get an assignment back! I get the course is crowded, but really!?
+
+Review 9
+Review ID: 83953
+Submission date: 2023-05-13T06:45:08
+Course: COMS W4701 Artificial Intelligence
+Professor: Tony Dear
+Rating: 2
+Review text:
+Going into this class, I'd taken my fair share of Columbia CS Courses. I knew to lower my expectations and expect lots of theory and lots of math. Still, this was an incredibly dull and mind-numbing approach to a subject that is currently upending the way we work, create, and communicate. Dear is honestly un-avoidable in the CS department because he carries so much of it with Discrete, AI, and CLA and I just don't think his teaching style works for me. Lectures are well-organized (positive) but formulaic to the point where it's just so amazingly boring. An uncharismatic, dry CS lecturer isn't a big deal if the homeworks are interesting/make sense. Yeah......no. In this class, homeworks always felt as they were written to punish and trick students, not actually get them to understand the material or find it any more interesting. I spent more time trying to figure out what the questions were even asking than solving the questions themselves. Exams were demoralizing, and felt harder than the practice exams. At least with CLA he curved generously though so we'll see.
+I know you need to walk before you can run, and that's probably the reason behind keeping everything so abstract and theoretical. But one little taste of how AI can be actually cool to work with/build projects with would be nice. Maybe that's the big brain point of the class? If you're not super into the math and getting tricked on homeworks then AI isn't for you?
+Workload notes:
+2 exams (midterm, final)
+6 homeworks (lowest of which is dropped)
+12-15. Could shoot up a lot more depending on if there's a fucked up homework question that you're left to investigate by prodding it out of the TAs on edstem
+
+Review 10
+Review ID: 83915
+Submission date: 2023-05-06T04:16:57
+Course: COMS W4701 Artificial Intelligence
+Professor: Tony Dear
+Rating: 2
+Review text:
+Prof Dear is a nice guy and tries to be helpful. I was hoping to spend more time on application in this class rather than spending what felt like 95% of the course on the statistics and mathematics behind it all, which made the course IMO boring. The content is interesting and I see the benefit of teaching the theory, but I think this class is overkill when realistically everyone would rather build a cool project using the methods we learned in the class. This class is SO theory-heavy, you will spend most of your time staring at extremely long statistical equations with little explanation on the slides, rendering them almost pointless unless you are able to decipher them on your own.
+Workload notes:
+40% hw (one drop), 30% midterm and final
+the homeworks are ridiculous. Like I mean horrible. I understand this class has a lot of students, but it takes a month on average to get grades back. They feel extremely pressed together as the class is packed with content. I think reinforcement learning itself should be its own class as that took nearly an entire month it seemed. homework assignments take forever and are quite challenging, but on average most students get As (after spending hours trying to get clarity on ed.)
+Exams - the main reason I would avoid this class is how poorly exams reflect the content of the class. The practice exams felt much easier than the real thing by far, and most students didn't complete more than 60% of the exam in the time. Don't even bother studying the exam because its going to be an extrapolation of the topics taught in the class at a completely different level.
+
+Review 11
+Review ID: 82994
+Submission date: 2023-01-10T20:40:05
+Course: COMS W4701 Artificial Intelligence
+Professor: Tony Dear
+Rating: 2
+Review text:
+The class is entirely based off of Berkeley's AI class. Seriously -- he doesn't even change the powerpoint theme. He goes over a lot of the basics of reinforcement learning, probability for AI, some neural net basics, etc.
+Workload notes:
+Homeworks required a LOT of time; since they were significantly more difficult than anything done in class, you have to figure out a lot by yourself. Exams are fair based off of the homeworks, but we really weren't prepared well. Quizzes every week that were about lecture-level difficulty, which would maybe take a half an hour if you keep up with what's going on.
+
+Review 12
+Review ID: 83327
+Submission date: 2021-05-01T00:00:00
+Course: COMS W4701 Artificial Intelligence
+Professor: Tony Dear
+Rating: None
+Review text:
+I took this course with Prof Dear but this review is more about the course than the professor.
+COMS 4701 is very much "plug-and-chug" and leaves very little room for self-discovery. If this does not match your learning style, you will probably feel like you're wasting your time. Because there is so much hand-holding involved, it's easy to score well without doing all that much work. That said, I think this course is a great introductory course for non-majors or people just starting CS.
+Material--very broad overview of AI and high-level discussions of concepts. To get a sense of what the book is like, you can just check out the Wikipedia page on "Artificial Intelligence" or any of the topics on the syllabus. You will not find much more depth in 4701.
+Quizzes--the quizzes are mostly multiple choice and it's all open book. Extra study time generally is not rewarded as there's not that much depth involved. Also, expect some wrong multiple choice answers to be adversarial in nature so be prepared to second guess your response all the time.
+Homework--About 75-80% of the code is written all ready, and the remaining code is not difficult to implement. Most of it was translating pseudocode into python. The short answer responses were also not terribly interesting. "Is this implementation more efficient than the other", "Is this guaranteed to find a solution", etc.
+Grading--There is a curve, but it's probably not necessary since everyone is scoring in the 80s and 90s. The grading rubric is well defined and expectations for each assignment/quiz are clear.
+I would recommend this course to people without a background in CS or math. The professor is very knowledgeable and the TA's are helpful. Or, if you want an easy A, go for it.
+Workload notes:
+(empty)
+
+Review 13
+Review ID: 83233
+Submission date: 2021-04-01T00:00:00
+Course: COMS W4701 Artificial Intelligence
+Professor: Ansaf Salleb-Aouissi
+Rating: None
+Review text:
+Didn't learn shit. This class was terrible. A buggy script determines your grade for the coding portion, and the professor just reads off the slides that she got off somewhere else. Recitations were mostly not good either, with most TAs being bad, but there are some exceptions.
+Workload notes:
+(empty)
+
+Review 14
+Review ID: 83232
+Submission date: 2021-04-01T00:00:00
+Course: COMS W4701 Artificial Intelligence
+Professor: Ansaf Salleb-Aouissi
+Rating: None
+Review text:
+If you're going to take an intro to AI class, Dr Salleb-Aouissi is the one to take it with. Her presentation of materials is concise and she usually goes over each concept twice, and they build on top of each other. She's a clear lecturer and her slides are pretty in-depth. She's always available for help outside the classroom as well, as are the TAs. Some TAs are hit or miss as they're undergrads.
+Workload notes:
+(empty)
+
+Review 15
+Review ID: 83332
+Submission date: 2021-01-01T00:00:00
+Course: COMS W4701 Artificial Intelligence
+Professor: Tony Dear
+Rating: None
+Review text:
+Tony Dear is an incredible professor. He is highly organized and is great on staying on task. He is clear and teaches his material very carefully. He is also very nice and kind and will tend to questions and never judge for asking any question.
+I was very scared for AI but it proved to be my favorite class taken at Columbia.
+I HIGHLY recommend him!
+Workload notes:
+(empty)

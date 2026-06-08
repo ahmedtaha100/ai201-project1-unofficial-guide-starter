@@ -1,0 +1,235 @@
+Source title: COMS W1004 Intro to Computer Science- Programming in Java CULPA reviews
+Source URL: https://culpa.info/course/3807
+Source type: Public CULPA course review page / API
+Domain subtopic: introductory programming
+Course code: COMS W1004
+Course name: Intro to Computer Science- Programming in Java
+Course ID: 3807
+Total CULPA reviews reported: 84
+Reviews collected in this document: 15
+
+Professors listed on course page:
+- Christina Leslie
+- Angelos Stavrou
+- Adam Cannon
+- Janak Parekh
+- Alfred Aho
+- Shlomo Hershkop
+- Paul Blaer
+- Christian Murphy
+
+Student reviews:
+
+Review 1
+Review ID: 89932
+Submission date: 2026-05-22T19:46:00
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Christian Murphy
+Rating: 5
+Agree/disagree/funny counts: 0/0/0
+Review text:
+I learned a lot about Java in this class, especially as someone whose background was primarily in Python and who knew very little about Java Syntax. I think Professor Murphy is definitely up there among the best professors at Columbia. His policies are very understanding, and he records his lectures and has a very clear, thorough syllabus. Despite teaching some confusing topics, he manages to make them very palpable. No question is ever too stupid, as he does his best to make sure he explains the concept as clearly as possible. On the first day, he explained how he can tell from the question whether someone is just trying to show off their knowledge or really trying to learn, and I really appreciated that. His quizzes aren't hard to study for, as if you just do his practice questions, pay attention/watch his lecture videos, and do the homework yourself, you won't have trouble with them.
+Workload notes:
+4 quizzes, with the final quiz on the last day of class. 8 homework assignments and reading exercises: the first 2 are worksheets, the next 6 are on Codio, all uploaded to Gradescope, and the reading exercises are on a separate textbook platform that you have to purchase. They're assigned roughly every other week, and there's no homework during the quiz week. The final is 10% of the grade, and he makes it so that if you get questions wrong on the quizzes, you have a chance to redo them on the final to get your grade up, given that those quizzes are 50% of your grade. He has a lot of TAs, so even if you have trouble, you can always check the Google calendar, and there will most likely be a TA or himself who has their office hours scheduled. I would definitely recommend taking Java with him if you can.
+
+Review 2
+Review ID: 89337
+Submission date: 2026-04-13T15:08:53
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Christian Murphy
+Rating: 5
+Agree/disagree/funny counts: 3/0/0
+Review text:
+One of the best classes I have taken with one of the best professors at Columbia
+Workload notes:
+8HW, 4 Quiz, 1 Final
+HW manageable, can be done in few hours. Quizzes very aligned with practice materials
+
+Review 3
+Review ID: 89321
+Submission date: 2026-04-10T20:10:55
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Christian Murphy
+Rating: 5
+Agree/disagree/funny counts: 12/0/0
+Review text:
+Prof Murphy is super understanding, has very lenient grading policies, and it feels like he genuinely wants us to do well. His quizzes are not too hard, and he always provides enough practice material that very closely matches the stuff on the quiz so you know what to expect. He also does a great job of explaining Java concepts and I really enjoyed his class. All lectures are also recorded.
+
+Overall just a really nice understanding guy, great professor, and this class felt like a breeze thanks to Prof Murphy's teaching style.
+Workload notes:
+8 homework problems roughly every 2 weeks (except when there's a quiz) and in each one the use of GenAI is fully allowed.
+4 quizzes which again are pretty straightforward and closely match the practice material he provides.
+The final is also interesting. The way it works is there's going to be 5 parts, one of which is the actual final and counts for 10% of your grade. The other 4 parts are basically the quizzes - there'll be questions on exactly the same topics from the quiz which you can reattempt during the final (a list will be provided to you of which questions you need to attempt) and if you score higher on the question in the final, it replaces your score from the quiz.
+
+Review 4
+Review ID: 89019
+Submission date: 2026-01-22T12:32:14
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Paul Blaer
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Really good intro CS course, particularly with Paul Blaer, who paced the course really well. He's a great lecturer, sometimes gets sidetracked with stories, but I feel like that just adds to his quirkiness. He's overall a great professor. This course teaches you all the basics of Java and some other general CS concepts.
+Workload notes:
+Weekly HW assignments (half written/theoretical, half programming), one midterm, and one final (which he provides a review session for and generally tells you "what to study")
+
+Review 5
+Review ID: 88963
+Submission date: 2026-01-18T22:03:36
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Paul Blaer
+Rating: 5
+Agree/disagree/funny counts: 1/0/0
+Review text:
+Blaer is fire. Nobody can tell me otherwise.
+Workload notes:
+Blaer offers late days, which is absolutely fantastic. Super chill and reasonable. Definitely a difficult class if you have never taken CS before, but YouTube is a great way to fill the gaps.
+
+Review 6
+Review ID: 87778
+Submission date: 2025-11-19T00:08:28
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Paul Blaer
+Rating: 3
+Agree/disagree/funny counts: 1/3/1
+Review text:
+Computer Science is a difficult topic to lecture. Blaer truly embodies that. His teaching is definitely difficult to keep up with because its just so boring. He's monotone, but not monotone in a quiet kinda way--monotone in a LOUD kinda way. He does record his lectures and give late days for assignments which are a huge plus and it seems like he understands that people go through things/make mistakes.
+Workload notes:
+Weekly ZyBooks assignments--superrrr helpful and a great investment for the class. Not a TON of work and answers are visible for help.
+
+Weekly Codio/Gradescope assignments which are not too difficult as well.
+
+Review 7
+Review ID: 87247
+Submission date: 2025-05-22T17:37:48
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Adam Cannon
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Cannon is great and is happy to answer endless, repetitive questions. But actually, he is a very patient teacher and a really good at explaining and genuinely feels like he cares about preparing the next generation of computer scientists!!
+Workload notes:
+10% Zybook, 40% HW, 10% Midterm 1, 10% midterm 2, 30% Final
+
+Review 8
+Review ID: 87217
+Submission date: 2025-05-20T23:46:19
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Adam Cannon
+Rating: 4
+Agree/disagree/funny counts: 0/0/1
+Review text:
+Had absolutely no prior cs experience, but cannon made the class very doable/enjoyable. lecture pace is super slow and are not too necessary to attend imo(especially near the end), but he'll occasionally drop hints for exam context. definitely go to OH's / form groups to code with for assignments and do the practice exams in their entirity! Midterms were super similar to the practice exams, the final was a bit harder / had a different format. Blair and Cannon have near-identical class structures, but Cannon teaches in the spring and seems to be slightly harder.
+Workload notes:
+dedicate time to do the odd-even game and poker assignment, especially
+
+Review 9
+Review ID: 86632
+Submission date: 2025-03-11T22:29:29
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Adam Cannon
+Rating: 4
+Agree/disagree/funny counts: 2/0/0
+Review text:
+the goat, makes CS easy to understand both conceptually and syntax-wise. If you have to take a CS course at columbia i'd say taking one with him is a pretty safe bet.
+Workload notes:
+40% assignment projects, 10% zybook, 10% both midterms, & 30% final. If you put in the effort and do all the work it isn't terribly difficult to do well in the course.
+
+Review 10
+Review ID: 86617
+Submission date: 2025-02-27T23:54:26
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Paul Blaer
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Everyone told me such great things about Professor Blaer, and honestly he sets the bar really low for doing well in the class. He's super engaging in class and him + the TAs always care about your work and will respond to any emails / Ed Discussions. Content is a little difficult if you haven't taken a Java course before, but he does explain things if you haven't.
+Workload notes:
+Work was so easy and grading was incredibly fair. Spent about 2 hours max per week on this class and maybe 3-4 hours studying for the midterms/finals just to review content.
+
+Review 11
+Review ID: 86453
+Submission date: 2025-01-16T09:01:10
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Paul Blaer
+Rating: 3
+Agree/disagree/funny counts: 6/0/0
+Review text:
+Disclaimer is that I have never touched cs before. Ever. So this course was definitely a challenge. Blaer is friendly, straightforward, hilarious in lectures at times, but he definitely does sort of assume a foundational type of knowledge on how code works. I didn't feel like we had time to absorb the foundations before starting on subtopics. After I got the basic principles in my head though, it went much better, and I did well starting from the midterms. I never showed up to the lectures in person, personally found it much more helpful to rewatch the recordings at 2x speed, coding along, pausing and replaying parts at my own pace. Lecture content feels a little disjointed at first, not always clear how everything connects, so you do need to read and do! the! ZyBooks! Not gonna lie though, this course would've taken me a lot longer if it weren't for me basically using GPT4 as an on demand tutor/TA, helping explain to me textbook and lecture content, as well as providing more practice questions. 
+
+Overall still a good course. Feel very meh about the subject though, just wanted to try.
+Workload notes:
+Assignments were perfectly doable on my own, with minor clarification from TAs, as long as I had a good grasp of the lecture and textbook content. Grading is fine. Blaer's very clear about when regrade requests are due, just get them in before then and they'll handle it. Lowest even and lowest odd numbered HW assignment grade is also dropped (very appreciated, given that I couldn't turn 2 assignments in even by the late deadline). Finals was tough but with a lot of studying it also went fine.
+
+Review 12
+Review ID: 86418
+Submission date: 2025-01-13T17:51:41
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Paul Blaer
+Rating: 3
+Agree/disagree/funny counts: 3/1/0
+Review text:
+Okay, so disclaimer, I never did Java before this class, but I do have programming experience in Python, which made it easier for me to grasp Java concepts and figure out coding logic.
+
+ For starters, I do not really like Blaer's teaching style, its kinda all over the place and there arent any slides or anything. Its more like he codes and talks. Honestly, I did not find it helpful to go to lecture because of this. I found it a better use of my time to just learn Java on my own. 
+
+The homeworks do progressively get harder and more time consuming, so my advice is to start early and go to TA OH. Some TAs are better than others imo cuz some of them would not even know what the assignment is about while others were more prepared to answer questions, so find out which TAs work better for you. Also, check EDStem while doing HW, because often the HW instructions are not very specific and there will be new requirements that are not mentioned in the HW instructions that you only find out about because someone else asked about it on ED Stem.
+
+I do like that Blaer tells you what topics are going to be on the exam before hand so that you know what to really drill down for the exam. I only went to Blaer's OH one time, and he was lowkey condescending. I asked my question in a respectful manner so I think the rudeness was uncalled for. If many people are saying hes unapproachable then I doubt this was just a one time thing. 
+
+Grading for this class is chill though, its curved well. I ended up with an A w a raw of 92. Class average was like a 70 for the final and midterm.
+Workload notes:
+
+
+Review 13
+Review ID: 86331
+Submission date: 2025-01-06T04:12:50
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Paul Blaer
+Rating: 4
+Agree/disagree/funny counts: 2/0/0
+Review text:
+As someone with little experience in Java, this class was definitely difficult. I would only take this course if you are seriously interested in majoring/minoring in CS - it is not just an elective you can push off to the side. I took COMS1004 to see if I wanted to major in CS and realized it wasn't for me, so the last couple of months were a pain to get through because the homework gets harder and harder. Honesty, everything after the midterm dramatically increased in difficulty. I also found the homework to be inordinately difficult compared to the exams. Expect to spend 5-10 hours on each homework, probably more on the Poker assignment. 
+
+Blaer is a very charismatic and enjoyable lecturer. However, if you are someone who doesn't know what is going on, it's easy to get confused because he incorporates jargon that we learned in class into his explanations. If you don't understand a previous concept, MAKE SURE you figure it out asap.
+
+As someone who got an A and was incredibly confused half of the semester, my best advice is to 1) Start HW early and go to office hours for help. There are lots of TAs so I'd suggest going to different ones and figuring out which TAs you like; 2) Actually read the Zybooks and make sure you know how to do all of the problems. For greater understanding, do the challenge problems; 3) Go to the review sessions and study everything he says for the midterm/final. I found YouTube and previous lectures/HWs to be helpful. Final and midterm are similarly structured, and if you're confused start with memorizing the syntax of the algorithms he covers (binary search, linear search, max/min, selection/insertion sort).
+
+I took ESP and that was a super chill, surface-level introduction to CS concepts.
+Workload notes:
+40% Homework, 10% Zybooks participation (only need to do 80% to get full credit), 20% Midterm, 30% Final. The raw average for my semester was an 82, and he curves the average to a low B+ and the median to an A-, so it is pretty fair.
+
+Review 14
+Review ID: 86320
+Submission date: 2025-01-05T16:37:35
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Paul Blaer
+Rating: 5
+Agree/disagree/funny counts: 2/0/0
+Review text:
+Great Professor who understands Java inside and out. Even if you come with knowledge of programming already (which I did with python) you will still learn a lot and maybe fall in love with java. If you didn't you will be fine and you will learn a lot and maybe fall in love with programming. The most important thing I realized is to code along with Prof Blaer during his lectures. Just open a personal Codio Project and type with him as he codes on his computer. Coding > taking notes and you will do well on the exam. When it comes to exams Prof Blaer does half the work for you already. He lists out all that you need to know in a txt file. All you have to do is just reimplement (from your understanding/memory) what's on the list two days before the exam. Allow one day of sleep to commit to memory and you will get 90+ on exams. It worked for me and it may work for you but everyone has their own study methods! Have fun!
+Workload notes:
+Extremely fair grading. Hours depend on how comfortable you are with the material.
+
+Review 15
+Review ID: 86290
+Submission date: 2025-01-04T16:39:56
+Course: COMS W1004 Intro to Computer Science- Programming in Java
+Professor: Paul Blaer
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Overall positive experience. Professor Blaer is a very kind person. He is the most understanding professor of all the professors I have taken class with. He truly tries his best to adjust the release date and homework deadline to make our lives easier because he understands we have a lot of work to do.
+He and the TAs are also very supportive, super quick in responding questions on ed.
+
+I have to however agree with other comments that I don't love his teaching style. He is not bad at explaining concepts, but there are no slides or complementary notes for most coding lectures and therefore the learning process feels unstructured. The strategy is to make your own notes with the recordings after class, because it's hard to make a structured notes in class when you don't know where he's going. I however did not realize this early on and did not make my own notes. So although I ended up an A I feel like I did not have a clear picture of what I have learned.
+It's a bit ironic because the logistics stuff in this class are pretty structured and organized in my opinion.
+
+I personally did not encounter any difficulties in seeking support, so I disagree with other comments saying he is unapproachable.
+Workload notes:
+10 homework assignments (40%), weekly Zybook exercises (10%), a midterm exam (20%), and a final exam (30%)
+Zybook is basically reading assignments with coding exercises.
+
+Average, maybe a bit heavier workload if you have no coding experience.
+
+Grading is fair. The written responses for both homework and exams, however, are strict in a way that you have to answer exactly what they are expecting. I got points deducted because the response not 100% the same with the rubric, although I already show clear understanding to the question.

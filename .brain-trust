@@ -1,0 +1,5 @@
+trust: read-write
+brain_path: ~/Desktop/Brain
+project_slug: codepath-ai201-unofficial-guide
+notes: |
+  User explicitly required Brain read/write documentation for CodePath AI201 work on 2026-06-08.

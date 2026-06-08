@@ -1,0 +1,211 @@
+Source title: COMS W3134 Data Structures in Java CULPA reviews
+Source URL: https://culpa.info/course/4
+Source type: Public CULPA course review page / API
+Domain subtopic: core data structures
+Course code: COMS W3134
+Course name: Data Structures in Java
+Course ID: 4
+Total CULPA reviews reported: 87
+Reviews collected in this document: 15
+
+Professors listed on course page:
+- Theodore Diament
+- Janak Parekh
+- Alexander Pasik
+- Shlomo Hershkop
+- David Elson
+- Paul Blaer
+- Daniel Bauer
+- Nazlı Yurdakul
+- Brian Borowski
+- Bo Dincer
+
+Student reviews:
+
+Review 1
+Review ID: 89803
+Submission date: 2026-05-16T07:36:48
+Course: COMS W3134 Data Structures in Java
+Professor: Paul Blaer
+Rating: 3
+Review text:
+The course itself isn’t too challenging, but the lectures themselves were pretty boring. Blaer goes off topic A LOT (stories about himself that aren’t relevant to the course), doesn’t start talking about content until about 10-15 minutes into the class, and then we “run out of time” at the end. We were behind on content, meaning the last few lectures felt extremely rushed. We actually ended up not learning some things that were stated on the syllabus. In Intro to Java, he actually coded during class, which was very helpful. But then in Data Structures, he stopped coding in front of the class and instead started showing code and essentially read it to us with some explanation. Other times, he pulled up the PDF of the textbook on the big screen and read it off. Not helpful. He writes using paper/sharpie in class, so there are no slides or posted class materials. This meant reviewing before the exams was a pain, since if you didn’t catch something in your notes, you would have to rewatch the lectures (all lectures are recorded) and fast forward the parts where he talks about himself. Also, something that bugged me was that he always says “Homework is gonna come out tonight,” and it almost never came out the same night, always the next day or in two days. He also said our midterm 2 grades would be out “by tonight or tomorrow” multiple times, but it was delayed over 1.5 weeks. Overall, content-wise, the class isn’t bad, and you get ample time for homeworks. However, I did not enjoy my experience in this class. For Intro to Java, you have to purchase a subscription to ZyBooks, which was annoying. I was glad that we did not have to for Data Structures. I will say that Ed Discussion was probably my favorite resource for this class, since the TAs are SO responsive and give great answers.
+Workload notes:
+10 homework assignments, 2 midterms, 1 final.
+
+Review 2
+Review ID: 89622
+Submission date: 2026-05-05T13:38:30
+Course: COMS W3134 Data Structures in Java
+Professor: Paul Blaer
+Rating: 4
+Review text:
+If you've taken COMS1004 before (or know Java) the transition into this class will be much easier than if you don't, so absolutely make sure you have some understanding of Java. That being said, Blaer's class is good as it doesn't make Data Structures any harder than it needs to be; it's certainly not a weeder class. Much like his Intro to Java class, attendance is optional and everything you need is posted online or is explained in depth the textbook, you can effectively treat this like an online class with three in person exams. However be warned that this fact does not make Data Structures as a subject any easier, and most people stumble by not taking the class as seriously as they need to. Attend/watch lectures live and ask pointed questions (or engage with Blaers questions). As while Blaer is a decent lecturer you'll find more value in what he has to say if you probe him for a bit more information. Make honest initial attempts on the homeworks despite their length, and clarify things with the TA's (the ones that are nice). The textbook is accessible online, and while you wont need it half the time if you watch lecture, I recommend using it to bolster your understanding as Blaer begins to blitz through certain topics after the first midterm and complete. This is a very manageable class which will reward you if you put the time in, and compared to the other Data Structure's sections I would say Blaer's is your best choice for the least painful experience. Don't go delaying Data Structures by a semester for Blaer though he's not THAT good.
+Workload notes:
+5 Homework Pairs of Coding and Written sections released separately but treated together, they can be very large/confusing but you'll also be given ample time to complete them: worth 40%. Two Mid-Terms worth 15% each, the first one is easier than the second content wise. The final constitutes the remaining 30%. The course load averages out to about 7 Hours a week, however some weeks you'll find yourself just watching lectures (if even), and others you'll need to spend an entire day doing a homework. Class is curved up to a B+ and the typical uncurved average is a B-.
+
+Review 3
+Review ID: 89350
+Submission date: 2026-04-14T14:42:47
+Course: COMS W3134 Data Structures in Java
+Professor: Paul Blaer
+Rating: 5
+Review text:
+Paul Blaer is an excellent professor with an obvious love for teaching. He explains things clearly, gives fair assessments, and is entertaining in class. Columbia is lucky to have him.
+Workload notes:
+He basically tells you exactly whats on every exam question for question. The content is not easy but his teaching style makes it as easy as is possible. The written homeworks are interesting and easy. The coding homeworks are absolutely brutal and the one thing bad about the course.
+
+Review 4
+Review ID: 89064
+Submission date: 2026-01-26T20:29:38
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 2
+Review text:
+This class is really hard. There's a reason it has a reputation for making CS majors become non-CS majors.
+Dr. B is a really really chill guy, but his lectures are kind of boring and the room they had us in put me to sleep every time (the room we were in was really warm and cosy and also we kept on having wifi problems what really sucked). Second half of the semester, I stopped attending and straight up watched all the lectures in 2x speed a week before the midterm (he was actually way more engaging at 2x speed)!
+Also, be careful with the second "midterm" because it's the last day of class and studying for the DSA midterm and immediately jumping into final season burnt me out so bad.
+I honestly wish there was more theoretical HW assignments or spread out more bc those were so helpful in getting me to understand the content.
+Workload notes:
+2 midterms (not bad but a lot of the coding problems are almost always extremely difficult - write down code from class in your extra space on your 1 page cheat sheet), final project (allocate enough time for this), PSETS (took me 1-2 hours each) and Theoretical HW (he gave extra credit for turning stuff in early which was really helpful).
+
+Review 5
+Review ID: 89023
+Submission date: 2026-01-22T12:56:49
+Course: COMS W3134 Data Structures in Java
+Professor: Paul Blaer
+Rating: 4
+Review text:
+Good course overall. I thought Blaer taught Intro Java better than Data Structures, but that could just be me. He is still the same quirky and funny guy from 1004 though.
+Workload notes:
+Weekly HW assignments (half written, half programming), a midterm, and a final
+
+Review 6
+Review ID: 88537
+Submission date: 2025-12-21T00:33:38
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 1
+Review text:
+Don’t take it with this professor.
+Workload notes:
+He makes the course 100 times harder than it supposed to be. Skip if you’re planing to take DSA fall semester I highly recommend taking the semester after just to avoid this professor.
+
+Review 7
+Review ID: 88495
+Submission date: 2025-12-19T12:24:16
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 4
+Review text:
+The material on the first midterm is fairly straightforward, but the class significantly picked up after the first midterm, and we started covering a lot of new material very, very quickly for the second exam. I initially didn't like the class that much because it felt like we were learning a ton of stuff at the surface level without any applicable skills, but after the long theoretical assignments, studying for the second midterm, and the final project, I actually do think that the class teaches you a lot and you gain a solid understanding of everything.
+The class is fine but probably wouldn't be that fun for anyone who isn't a CS major/minor or interested in the material.
+Workload notes:
+2 midterms (34% each, curved so the median becomes an 87%), final coding project (12%), 6 quizzes (5%, lowest dropped), 8 programming assignments (7%, lowest dropped), 4 theoretical assignments (8%).
+The grading scheme felt a bit odd for a CS class since the programming assignments and final project are worth so little compared to the two exams, but I think this was a recent change due to AI. The quizzes are super easy (you get two attempts). The main annoyance is that the second "midterm" is on the last day of class, so you don't get to use reading period to study and then jump straight into the final project (which is due over reading period).
+
+Review 8
+Review ID: 88424
+Submission date: 2025-12-17T16:54:06
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 4
+Review text:
+The best part of Professor BB's course is that his syllabus is specified to date, all there before the semester started. You'd see what topic he is going to cover at every lecture on courseworks, and the related class materials like slides, sample code, LeetCode practices. There is almost TA office hours every day on weekdays. It is very easy to study for this class because all of these support I have, even when I don't go to lectures.
+Professor BB is also fun. Can't forget his Song of Recursions. As he said himself, he likes teaching. I can feel that he pays attention to his audience and lightens thing up when students get sleepy.
+However, BB is not rigorous enough if you want a hardcore CS professor and deep understanding of concepts.
+Workload notes:
+3 hours/week on average, as long as you are familiar with Java.
+
+Review 9
+Review ID: 88329
+Submission date: 2025-12-15T00:33:11
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 1
+Review text:
+Prof is nice but class is so buns bro lectures are so unbelievably boring and tests/hw's are graded super semantically and not on how well you actually understand the material. As a non CS major this was an absolute nightmare. The material isn't even hard its just taught and tested in such a way that its so hard to get every little thing right because they're so picky about every tiny little thing. Class is also clearly twisted towards CS students (he cant stop talking about coding interviews in class) which is great if you're a rat race participating cs major and awful if you aren't. Just take it w the other Prof
+Workload notes:
+Treat the HW specs like the bible any tiny deviation = cooked
+You just have to be super super careful all the time about every little thing and that gets very tedious very quickly.
+
+Review 10
+Review ID: 88305
+Submission date: 2025-12-14T07:38:06
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 1
+Review text:
+contents of this course are very important!
+Thus, if you are not familiar with DSA, don't take this class with this professor.
+Workload notes:
+The workload is heavy, but it is good practice for these topics. However, the grading is strictly binary—right or wrong (for example, forgetting a single space makes the answer incorrect).
+The exams themselves were fair (and relatively easy for me), but here is the catch: there are 75+ blanks to fill in within less than an hour. You are not able to reread the questions, which makes careful thinking nearly impossible.
+The testing environment is also very uncomfortable. There is barely enough space for the exam booklet, making it difficult to use scratch paper or a cheat sheet. This adds unnecessary pressure and affects performance.
+The grading curve is confusing and feels unfair. If one student scores a 75 and another scores a 50, the final grades might become 90 and 80, respectively. Meanwhile, someone who scores a 4 could end up with a 54, which does not make sense.
+Why are we not given enough time to complete the exams? Why are grades curved from extremely low raw scores to 80+? What is the purpose of an exam if students cannot fully read the questions or think through their answers? What is the point if we are not allowed to demonstrate our understanding and reasoning process?
+This is the worst teaching style I have ever experienced. The class turns students into “robots”—no thinking, no creativity, just memorization, repetition, and speed. Columbia often speaks about leadership, yet they hire this "robot" to teach student to become "Robo" his approach trains students to think and act like machines rather than leaders.
+Very disappointing.
+Don't ever take his class.
+
+Review 11
+Review ID: 88199
+Submission date: 2025-12-10T13:10:31
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 2
+Review text:
+If you don't know the materials will be covered in class before attending, it's very unlikely to understand from him; he goes very fast. In my case I was fine with it. The courses' topics were easy for me.
+Workload notes:
+Heavy workload, which is fine except. Grading is binary yes/no.
+Exams are horrible. They are easy but you have less than an hour to solve them. No time to think or reread the question, one shot you get it the first time or not. You will not have time to really show your understanding of the materials. What is the point of that? giving us crazy curves someone could get 20 on the exam and get a final score of 70. This is not what I went to Columbia for to get curves on my grades, what a sham. Students loss confidence and confuse their understanding. He must give students enough time to complete and review their exam before they hand them out. No need for curves, unless the exam includes more than 4% materials were not covered in class (and curves should not be that crazy, I would prefer to get a 60 that reflects my answers rather than 80 that doesn't reflect my work). You will have 75+ blanks to fill in less than an hour and then rewrite your answers into the answer sheet.
+
+Review 12
+Review ID: 88093
+Submission date: 2025-12-07T13:40:29
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 1
+Review text:
+Everyone who says the grading is transparent and clear has never actually programmed for a real-life project. Programming is an art, in every sense of the word. Artists have their freedom to create to their heart's desire, so long as their client approves of the piece. Such a statement implies that an artist is in direct communication with the client and can receive instructions and clarifications in what is essentially real-time. Even in programming interviews, you can submit your work, get feedback, and resubmit with no penalty. Your IDE handles syntax errors and spacing, allowing a programmer to focus on how the math and logic creates results.
+Dr. B does his best to stamp the artistic freedom out of this process. He poses questions on how well you can remember syntax. He tests you on how well you can remember his exact implementation - any variation, even if it leads to the same, correct answer - is not allowed. As an aside, his coding style is to aim for code that looks clean at the expense if the readability of the algorithm. His slides give information that are directly contrary to what he expects from us.
+I will concede that he is a decent lecturer. All of that, however, is offset by just how badly his tests and assignments are implemented. And what use is all the theory if his practicals don't allow you to try anything?
+Workload notes:
+Assignments vary in length. One assignment took a full 8 hours after even the TAs conceded that the expected solution was not taught in class and was not present in any of the course material. Tests contain trick questions that never appear in real life. The 'Capstone Project' is no different from a regular assignment, and even though it is called a "project," there is still only one implementation!
+
+Review 13
+Review ID: 88058
+Submission date: 2025-12-05T08:41:21
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 5
+Review text:
+My goat. Dr B is the best professor I have had at Columbia so far. He is teaches the content in such an enthusiastic way that it makes it impossible not to be fully immersed in the content. Also, he teaches everything with the intention of future uses - in our case, job interviews. I have personally come across two problems extremely similar to ones he mentioned in class during recruiting, and would not have been able to solve them if not for this class.
+Workload notes:
+Programming homework (7%), quizzes (5%), and theory homework (8%) are relatively small. 2 midterms, 34% each, and a capstone (12%). Looked scary at first, but midterms are graded very generously and we are allowed double-sided cheat sheet. Many, many TAs so there is an office hours slot that fits your schedule.
+
+Review 14
+Review ID: 88000
+Submission date: 2025-12-03T17:42:51
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 5
+Review text:
+Dr. B is a fairly good lecturer who clearly cares about his students, their learning, and transparency of grading (i mean big time, almost every question in this class is a 100% objective yes or no, you got it right or wrong, down to each character). The expectations are made clear and he's not playing any tricks, he just has high standards and wants you to learn a lot. I would easily choose to take with Dr. B again.
+Workload notes:
+Somewhat heavy workload, but everything feels applicable so it's worth it. No final exam which is nice, just 2 midterms, worth 68% of the grade (and they are curved so that the median is an 87%). The other 32% of the grade is pretty much free: programming assignments, some non-coding homework assignments, take-home canvas quizzes, and a final project. If someone didn't do well in this class, they just didn't study: grading is 100% objective and transparent.
+
+Review 15
+Review ID: 87926
+Submission date: 2025-11-30T23:52:29
+Course: COMS W3134 Data Structures in Java
+Professor: Brian Borowski
+Rating: 3
+Review text:
+I thought I was signing up for a chill stroll through data structures in Java. Instead, I got ambushed by algorithms and runtime analysis, but those topics aren't that bad. Dr. B explains things well enough, and all his lectures are posted on CourseWorks (so you can rewatch the boredom at double speed, which honestly improves the experience).
+Lectures themselves? Let’s just say they’re extremely dry. Half the class disappears after the first midterm, and honestly, I don’t blame them; Houdini would be proud of that vanishing act. The Recursion Song, though, was a rare highlight. For once, I felt like I was at a comedy show instead of a hostage situation.
+The TAs were responsive on EdStem, sometimes at bizarre hours (I’m convinced one of them is powered by caffeine and regret). Their answers weren’t always correct, so waiting for Dr. B’s reply felt like waiting for a software update: you know it’s coming, but you have no idea when, and you just hope it doesn’t crash your system.
+Workload notes:
+8 programming assignments (7% of grade, lowest dropped), 4 theoretical assignments (8%), 6 quizzes (5%, lowest dropped), 2 midterms (34% each), and capstone programming assignment (12%).
+Assignments were mostly easy (except HW6 on RB Trees, which felt less like homework and more like a rite of passage). Grading, however, was a nightmare. Everything was judged so semantically that if your answer wasn’t exactly what Dr. B had in mind, it was marked wrong. Regrade requests? Good luck, you’ll have better odds convincing a compiler to “just chill.”
+Exams were another adventure: questions often came from topics mentioned for about 12 seconds at the end of lecture. Thankfully, cheat sheets were allowed, which turned the test into a scavenger hunt through your own notes.

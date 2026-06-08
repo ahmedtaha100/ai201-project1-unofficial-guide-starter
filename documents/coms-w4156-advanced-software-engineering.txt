@@ -1,0 +1,270 @@
+Source title: COMS W4156 Advanced Software Engineering CULPA reviews
+Source URL: https://culpa.info/course/1616
+Source type: Public CULPA course review page / API
+Domain subtopic: advanced software engineering
+Course code: COMS W4156
+Course name: Advanced Software Engineering
+Course ID: 1616
+Total CULPA reviews reported: 18
+Reviews collected in this document: 15
+
+Professors listed on course page:
+- Gail Kaiser
+- Swapneel Sheth
+
+Student reviews:
+
+Review 1
+Review ID: 88621
+Submission date: 2025-12-25T20:10:52
+Course: COMS W4156 Advanced Software Engineering
+Professor: Gail Kaiser
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+This has been one of my favorite CS classes at Columbia. What I appreciated most is how practically applicable the material is: the techniques map closely to what you’ll encounter in a typical SWE internship, but with a more formal, disciplined framework. For example, most internships will teach you to write unit tests to validate basic functionality. What you likely won’t get on the job—and what this class does especially well—is a structured way to reason about test quality using concepts like equivalence partitioning.
+
+ The delivery is also excellent. Professor Kaiser explains concepts carefully and at a pace that makes the material genuinely digestible. I consistently felt like I knew what was going on, and the slower pacing gave me time to think critically and ask meaningful questions. I also really liked the interactive portions of lecture, where the class would reason through code snippets together and identify issues. Another thing I appreciated: when students asked questions about material that wasn’t planned for that day, Professor Kaiser would often take note and come back to address it in a later lecture. That’s going above and beyond, and it showed real care for students’ learning experience.
+Workload notes:
+You begin with a mini-project that acts as onboarding for the team project. It’s split into three sprints, and each sprint teaches a technique you’ll later need in the larger project (e.g., setting up GitHub Actions to run unit tests automatically on pushes). This portion felt very manageable—generally under 10 hours/week.
+
+ The team project is the main time commitment. You build a service in a group of four, essentially implementing a set of endpoints that could support different applications. The project is time-consuming largely because testing is emphasized heavily: you’re given detailed rubrics each sprint (e.g., test each function with typical, edge-case, and invalid inputs), and you’re expected to build comprehensive coverage. Team selection matters a lot—if your group isn’t reliable, the workload can balloon quickly. Also, don’t leave sprints until the last minute; you will almost certainly have rubric questions, and getting clarifications early saves you a ton of stress.
+
+ A major positive is the mentoring structure. You’re assigned a mentor who provides guidance and clarifies deliverables, and they also grade your work—so staying in communication helps ensure you’re aligned with expectations. My biggest advice: keep the scope small. The more complex your service, the more you’ll have to test, and complexity doesn’t necessarily translate to a better grade. If you plan for ~12 hours/week on the team project, you should be in good shape.
+
+ The only other course component is a couple of take-home assessments: written assignments where you analyze aspects of your team project. I actually enjoyed these because they made me think about robustness and security (including how your code might behave under adversarial use). They’re advertised to take ~4 hours, but in my experience they took closer to 10.
+
+ Grading can feel strict. I ended with an A- even, despite a raw score in the mid-90s. My impression is that there may be a slight downward curve since rubrics are available in advance and overall performance is high. Grading can also depend on the mentor—some are stricter than others. Extra credit is available for in-person attendance and thoughtful participation.
+
+ There's also an option to be a mentor, and if you already have SWE experience, that can be a great way to engage with the course (and it may be a more efficient path to a top grade).
+
+Review 2
+Review ID: 86339
+Submission date: 2025-01-06T06:51:50
+Course: COMS W4156 Advanced Software Engineering
+Professor: Gail Kaiser
+Rating: 4
+Agree/disagree/funny counts: 1/0/0
+Review text:
+The course was all online, which seemed fine to start but midway through the semester became frustrating. Most of the Zoom sessions consist of TA demos, some of which were helpful, others not so much. The bulk of the grade is the team project, which comes after an individual project. The individual project teaches you about GitHub workflows, unit testing, etc. and was very helpful. The group project is developing a functional API, which was also a very interesting undertaking. Unfortunately, half of my team members basically did no work and waited until the last second to make only minor contributions, so the team aspect of it seemed useless. However, I learned so much working on the API, it's hard to find much negative to say about the course.
+Workload notes:
+The individual project and group project are split into 3 iterations. The individual project is worth 30%, the group project 50%. Individual assessments let team members allot points to other team members based on perceived contributions, so the grading seems a bit more fair assuming everyone agrees on who did work and who didn't. There were issues with our team grade that the TA seemed to ignore or only reluctantly try to fix, which was annoying, and the "contribution" aspect of the grade (posting on Ed) seemed kind of pointless. If all team members make incremental contributions to each iteration, the workload is very much manageable. If you get stuck with lazy students on your team, workload is going to be a lot more intense.
+
+Review 3
+Review ID: 82899
+Submission date: 2022-12-19T12:59:23
+Course: COMS W4156 Advanced Software Engineering
+Professor: Gail Kaiser
+Rating: 2
+Agree/disagree/funny counts: 14/9/8
+Review text:
+Not recommended. Prof not nice. Didn't learn much things. Very poor experience with Zoom lectures. Time wasted on toy projects. Didn't see the point of having exams, though in the format of take-home assessments.
+Workload notes:
+Fair.
+
+Review 4
+Review ID: 83047
+Submission date: 2021-01-01T00:00:00
+Course: COMS W4156 Advanced Software Engineering
+Professor: Gail Kaiser
+Rating: None
+Agree/disagree/funny counts: 1/0/0
+Review text:
+Whoever took this class with Shirish as TA onboard knows what I mean. Shirish shouldn't be a head TA at all, he controlled your grade and would not care for students and Gail was too busy to do any grading at all. Several students argued with Shirish many times and his condescending attitude pissed everyone off. Overall a class with good content but the assignments were too easy(Shirish made it harder by giving low grades). When Shirish onboard, jump off!
+Workload notes:
+
+
+Review 5
+Review ID: 45002
+Submission date: 2014-11-06T15:42:09
+Course: COMS W4156 Advanced Software Engineering
+Professor: Gail Kaiser
+Rating: 2
+Agree/disagree/funny counts: 0/0/1
+Review text:
+Overall, I recommend not taking this course.
+
+The ideas behind this course are simple: think in terms of the customer and plan your project accordingly. Unfortunately, a lot of the documentation we do is not really meaningful, and the pace of the class could be faster. We spend several weeks on design patterns, and another several weeks on "bug testing", which is stuff you pretty much already know. 
+
+If you want to challenge yourself on your road to becoming a fully-fledged Computer Scientist, don't take this class. If you are looking for an easy course to take on the side, while knocking out your tech electives, you might consider ASE. This class is not really "Advanced Software Engineering", it should be called "Software Project Planning for Enterprise". 
+
+The midterm reflected the course. It was pretty easy, with just definitions and written explanations of concepts. But at the end of the day, how much did you learn compared to a class like OS or Algorithms?
+Workload notes:
+Bi-weekly assignments for the first two months with documentation for your project and other scenarios
+Semester project using a web framework (Django, Rails, etc.)
+
+Review 6
+Review ID: 41449
+Submission date: 2014-10-30T19:51:46
+Course: COMS W4156 Advanced Software Engineering
+Professor: Gail Kaiser
+Rating: 3
+Agree/disagree/funny counts: 0/0/0
+Review text:
+The class moves pretty slowly for a 4000 level CS class and covers the qualitative components of Computer Science (planning, group dynamics, etc). Don't let the name fool you, there is nothing "advanced" about this course. It is interesting that we get to work on a project of our choosing over the course of the semester, but the amount of documentation we have to provide beforehand is a little infuriating. You end up spending 3x more time writing out requirements, risk, etc than writing code. 
+
+You will probably have to take this class because it is required for Software Systems, and let me say that this is not a "bad" class. You still learn concepts like design patterns, but ultimately you will learn MUCH more if you take a class like Operating Systems or Computer Networks.
+Workload notes:
+Medium (bunch of periodic group assignments that don't take too long)
+
+Review 7
+Review ID: 28841
+Submission date: 2013-12-12T04:59:57
+Course: COMS W4156 Advanced Software Engineering
+Professor: Gail Kaiser
+Rating: 2
+Agree/disagree/funny counts: 6/0/0
+Review text:
+I recommend _not_ taking this course. 70% of the work is document writing, drawing graphs, and typing stuff into JIRA, not difficult, but very tedious and boring. You do surprisingly little coding, which is ironic for a "software engineering" course. Writing "cool" software won't score you more points in the class. If you absolutely must take this course, do not be ambitious about the projected you will create. You won't receive extra points because your project is "cool" or "harder." Most of your grade hangs on the writing/documentation you do -- and you will spend more time on this than anyone would want to. So make your software easy to document and easy to test. You really only spend a month or two working on it, the rest is over-excessive planning you don't end up following anyway.
+
+The midterm and final will have you writing so much stuff! The first of the three questions test you on vocabulary (!) terms from the lectures/book. The second one is short answers. The last one asks you to come up with designs for proposed software and ask you to write more than what most people can do in the given time. If you take this course, do the test backwards. Almost everything in the course is pedestrian stuff you know already: unit tests, version control, software testing, etc. The other stuff you might not have heard of, UML diagrams, burn-down charts, and spike testing, etc, are not complicated at all, and can easily be learned from the textbook. (http://www.amazon.com/Head-First-Software-Development-Pilone/dp/0596527357). In undergrad, I went to a much less prestigious school than Columbia, and I never had a course this boring, simple, and tedious. I was really in for a surprise.
+
+The redeeming feature of the course is that the teacher an the TAs (the one's we had) were all nice people. (not necessarily easy graders though!) The textbook is actually read from cover to cover and is actually affordable. However, you shouldn't take a course just because the textbook is cheap and the teacher is nice.
+
+I was initially attracted to this course because I thought I would spend most of the time coding a cool project. I ignored the negative reviews. I regret it. Don't make the same mistake.
+Workload notes:
+Complexity is extremely easy, but the tediousness of it made the workload medium.
+
+Review 8
+Review ID: 28058
+Submission date: 2013-01-27T02:06:11
+Course: COMS W4156 Advanced Software Engineering
+Professor: Swapneel Sheth
+Rating: 2
+Agree/disagree/funny counts: 17/2/6
+Review text:
+Figuring out exactly what was expected from each assignment and project milestone was the main problem. It seemed like the emphasis wasn't on the software engineering process, but on satisfying very vague and irrelevant conditions as well as pleasing your TA overlords (many of which were visibly on a power trip). Having requirements and even definitions change on you after the fact is incredibly frustrating (euphemism: "clarified"). Lectures usually covered painfully obvious ideas.
+
+Also... if you're going to illustrate a nifty connection between refactoring source code and factoring a polynomial, at least factor a middle school problem correctly? Swap wrote x^2 - 2x + 1 on the board and factored it as (x-2)*(x+1). Then he looked at it again and changed it to (x+2)*(x+1) ........................ Yep, this guy occupied a chunk of my semester. -_-
+
+Consider the following:
+
+http://www.youtube.com/watch?v=oKdYRjwc8T0
+
+skip to 1:10 for the good stuff.
+Workload notes:
+Workload was average for a core class, but a lot of that effort and time went into seeking out the gotchas that would screw us over in the grading process.
+
+Review 9
+Review ID: 28053
+Submission date: 2013-01-26T21:10:01
+Course: COMS W4156 Advanced Software Engineering
+Professor: Swapneel Sheth
+Rating: 1
+Agree/disagree/funny counts: 14/0/0
+Review text:
+The below reviews would have given a very clear idea about the course and how it was taught ...what is baffling is the fact that the course is a core requirement for MS students when anyone who has worked in the software industry or done an undergraduate in CS would already have done everything that is a part of the course ..The assignments defy all sense of logic ranging from "reading articles " and writing summaries to what seemed to be an experiment on the social behavior of individuals when they are made to test each other's projects..what followed was pretty disappointing and sickening to an extent when teams tried to raise defects in order to gain points...the grading rubric at any point was not concise ..the teaching assistants did try to keep up pace with all the chaos that was going through ...I would not comment if this was still better than what was being taught by the previous but this has to be the most stupid course I have ever had to take as a student
+Workload notes:
+does it even matter
+
+Review 10
+Review ID: 28041
+Submission date: 2013-01-25T10:39:05
+Course: COMS W4156 Advanced Software Engineering
+Professor: Swapneel Sheth
+Rating: 1
+Agree/disagree/funny counts: 35/0/3
+Review text:
+Disclaimer: I got one of the highest grades in the class. Don't think about that, however. It doesn't matter. I can promise you I objectively didn't do any better or worse than most of the people in the class. However, it stands to be asserted what a horrific failure Swapneel and his TA's were in teaching this class and how much it needs to ring out, loud and true, across every desktop of every student who is even thinking about registering for ASE under him.
+
+Be objective for a minute. Look at the other reviews for this class. All of them are negative. Only two people disagreed (perhaps the teacher himself and a TA?). What does that tell you? Ignore your feelings for a minute and let's focus on the facts. Looking at the other reviews and the overwhelming agreement that "Swapneel" and "ASE" should NEVER mix.................what does that tell you?
+
+It tells you to fucking drop this class before you make the same mistake I did, you stupid fuck. Why? Read on....
+
+Yes, it's a core class. You've got to take four. However, at least take a class where you will actually learn something. ASE is not that class. You will learn no new tools or technologies to aid you as a programmer. Software engineering as shown in this class is perhaps the most worthless and the lowest common denominator of computer science; if you can even call software engineering a science. I have no respect for anybody who seriously considers themselves computer scientists and decides to study software engineering as a specialization. I can sum up the entire class in two sentences. Ready? "Before you program a piece of software, take the time to plan it out and get an idea of what is needed and wanted. Then, after design and implementation take place, write lots of test cases to make sure everything works smoothly and correctly." That's it. I'm fucking serious. That's fucking Advanced Software Engineering. It makes me shudder to think of what regular "software engineering" is. EVERYTHING - and I mean EVERYTHING - you learn in this class can easily be picked up by landing a job and staying there for a little while. You are ABSOLUTELY wasting your tuition taking this class because - mark my words - you will eventually learn all of this material for free. There is no justification possible to convince me that the several grand I wasted on this class was worth it; there is no fitting label for this class other than "complete and utter rip off". Even if you take this review and the others with a grain of salt, I can promise you the class is still a waste of time because it's a fucking tautology you'll be learning this stuff anyway.
+
+Which leads me to Swapneel and his merry men whom are the real reasons why you should avoid taking this class. Yes, even REALER than what I've mentioned above. Swapneel is approachable in class and outside of class. He responds to emails semi-frequently and the TA's were very available as per their office hours. This is all nice and fine but just because you do the bare minimum of what you are supposed to do doesn't and will NEVER make you a good TA and especially not a good teacher.
+
+I'll start with Swapneel's waiver policy. Once people effectively saw through him, many people tried to waive this class and nearly all of them were met with rejection. Don't ask me why. I can understand a few people here and there leaving due to the material not interesting them; rejecting a flood of people from waiving the class just to cover your own ass and to heavy-handedly "legitimize" your material is not only suspicious but a move worthy of only the most supreme of dicks. For this alone you have my eternal contempt.
+
+Next, the grading. Every assignment and lecture for that matter was excessively vague which is a stunning accomplishment for Swapneel given that just about everything in this class is complete fucking common sense. It was evident from the beginning of the semester that Swapneel had absolutely no idea what he was doing and, for many topics, no idea what the fuck he was talking about. The TA's were even worse with the material with the exception of Jon Bell. Jon Bell knew his stuff, but he is the special breed of asshole TA who likes to answer your questions with condescending questions of his own in order to, if I had to guess, feed his pretentious ego and perhaps make him feel better about excelling in perhaps the most worthless field of computer science. There was nothing about his actions that anybody could have mistaken for productive in a million years. I would pay Jon a visit from time to time asking for clarifications on grading or assignments in general and would be subjected to a barrage of condescension, pretentious remarks, and general smuggery. I eventually quit going to his office hours because I found his behavior so thoroughly revolting, disgusting, and perhaps most importantly, counterproductive. The other reviewers have touched on the other important aspects of the grading; generally the loss of points for unmentioned phenomena in the rubrics and the subjective, smug nature of the points. I won't bother to repeat what has already been said aside from the following: even if you think you've covered every possible angle of your assignment, you haven't. You have to look for the one stupid unmentioned detail that they're going to fuck you on and hammer that shit out otherwise you stand to lose points big time. If they ask for a test case, create multiple test cases. If they want a thorough explanation, give them an assload of words. If they want an example of something, include the example and a counter example. That's the mindset I had to take in order to get the grade I did in this class and I will re-emphasize it: look for the unmentioned details that COULD help you and fucking INCLUDE THEM because otherwise they will screw you out of a shitload of points.
+
+I'm getting the word out on this shit. Swapneel, Jon, Kunal M, Kunal G, and Priyank, I want you to read the above thoughts again very carefully. If you don't take these words to heart, you are going to destroy your chances of ever being worth a shit in the CS department again in regards to teaching. Not that the damage hasn't been done already; Swapneel and his TAs should NEVER, EVER be allowed to have the job running this class again. I'm fucking serious. You five are the worst I've ever fucking seen. I had a class at my old school with three teachers; a new teacher would come in after a test was given and none of the teachers communicated with one another in regards to what we had already learned. It was completely disorganized and the averages were abysmal since we were repeatedly tested on things the teacher thought we knew but we hadn't actually covered. All three of them were unapologetic in their grading policies and, when they didn't finish covering the units they were supposed to, told us to figure out the material ourselves and one of them even told the class to accept an solution of his "based on good faith" when he couldn't solve an example problem after two classes. You five were fucking worse than that class. The absence of this class is better than it's presence with you five at the helm, and just about anybody would be better at running this class than any of you ever would. You five are a disgrace to the department and I hope these words come back time and time again to forcibly separate you all from ever having the chance to teach again. Harsh? Swap, you once mentioned your grading policies mirrored the real world. Well, mine don't get any realer than this.
+Workload notes:
+A lot of vocabulary and writing about common sense concepts. Fun! You also have a semester-long programming project that is graded primarily on l33tness as opposed to actual software engineering concepts.
+
+Review 11
+Review ID: 28028
+Submission date: 2013-01-23T21:41:13
+Course: COMS W4156 Advanced Software Engineering
+Professor: Swapneel Sheth
+Rating: 1
+Agree/disagree/funny counts: 35/0/1
+Review text:
+All other reviews for the course Advanced Software Engineering by Swapneel Sheth have already pointed out how abysmal this course is, which I completely agree with. 
+
+In one word I would describe this course as 'vague'. Instructing staff was lazy and did not put any effort in making assignments or deciding the grading criteria, which can help students learn something. At times I wondered if I was undertaking a core courses at one of the best computer science departments of the country or participating in a competition called SCORE. I think Swapneel made it mandatory for students to participate in SCORE so that he can improve his own resume and show how many teams instructed by him participated in the competition. This is what happens when you have a PHD students instruct a core course. I don't know how can the SEAS select such an under qualified person to take this course (he is not even a PHD yet!). Most TAs lacked sufficient subject knowledge. Although, Jon has knowledge about subject but he is more occupied with finding ways to screw students grades and feeding his big ego than imparting education. So, think twice before taking a course where Jon is a TA.
+
+My advice: Change your track, change your university, drop out of college, do anything but don't take this course.
+
+All views in this review are my personal opinion.
+Workload notes:
+Not much. Do you even care now?
+
+Review 12
+Review ID: 28027
+Submission date: 2013-01-23T21:08:21
+Course: COMS W4156 Advanced Software Engineering
+Professor: Swapneel Sheth
+Rating: 1
+Agree/disagree/funny counts: 33/0/0
+Review text:
+THIS.PROFESSOR.SUCKS.
+
+Also proves that all phd's cant teach especially the smart ass ones. I would also like to remind him that just choosing people from his university as TA's wont improve your course especially when that TA is an irritating and stupid person who just grades his friends well. Stop doing favors and improve your grading system. 
+
+The worst part is that everyone knows this professor and his TA's are shit and yet no one can waive it off because the sadistic professor wants to teach a bucket full of class which clearly are not interested in wasting their money for a course like ASE but for it being a core course.Please change your stream if you have to to avoid this course or else regret for an entire semester.
+
+I dont know how this professor is not in here. --> http://vandybubble.com/2011/10-professors-to-avoid-ratemyprofessor/
+Workload notes:
+General as per a core course.
+
+Review 13
+Review ID: 27938
+Submission date: 2013-01-06T16:28:01
+Course: COMS W4156 Advanced Software Engineering
+Professor: Swapneel Sheth
+Rating: 2
+Agree/disagree/funny counts: 39/0/0
+Review text:
+This is hands down the most worthless course I have ever taken. After the entire course I didn't feel like I learnt a thing. I have two major complains:
+
+1. The class was ruthlessly boring and pointless. I had worked in the industry for five years earlier and I knew what this class was basically supposed to teach me, but it didn't. You are better off using Wikipedia or Google to learn this shit. And Swapneel was so pigheaded that he devised his own stupid waiver mechanism that almost everyone applied to because they didn't want to take this class and almost everyone was rejected because this smart-ass didn't want to bore just a handful of people and waste their tuition.
+
+2. The TAs were grossly incompetent. One of them was a guy fresh out of undergrad college who didn't know shit about what he was doing but just ended up getting the TA position because he was from the same undergrad university as Swapneel and was helping him with his research. I know through common friends that he cut a lot of slack for his friends that took the same course and this was just unfair but couldn't be pointed out in public since it couldn't be proven.
+Workload notes:
+Not difficult, but worthless and boring.
+
+Review 14
+Review ID: 27902
+Submission date: 2013-01-03T18:37:50
+Course: COMS W4156 Advanced Software Engineering
+Professor: Swapneel Sheth
+Rating: 1
+Agree/disagree/funny counts: 37/1/2
+Review text:
+Worst person to take a course under. He wont teach you anything meaningful just like his boss Gail Kaiser. He tried to show off people how cool he is and come up with really stupid schemes for grading. Even assignments were as shitty as possible. Assignments were so many. He will just show off his shit masters project that only 3 persons like "He himself", "Gail Kaiser" and "Jonathan Bell".
+He will speak things in generic terms in class and that was just common sense, no need to waste tuition for that. We tried to get this course waived, but he is an asshole and so is Columbia SEAS core course deciding committee. Every year people complain but nothing happens.
+Grades were also bad and I guess that's Gail Kaiser and her department descendents policy, never give anyone better grades. Swapneel fits into that category. Even if you are in top 15 students in class, you might not get an A.
+Stupid policies for grading and stupid grading rubrics that have no sense in them.
+He will try to justify that this is how it happens in real world, but it doesnt happen that way my friend. you are just an asshole and equally dumb.
+You could have come up with better grading rubrics, made grading more quantifiable and given better grades after doing all this shit whole semester.
+Just to add, Jonathan Bell will come as free TA for all his/Gail Kaiser's courses and he is another dumb fuck wrangler. If your style of writing displeases him, he will make sure you get B-, C or B max.
+Workload notes:
+you would end up doing a lot than this course deserves. There is nothing interesting in either assignments or project to learn. Documenting stuff etc, will give you better grades and not actually learning something. Grading would be dictated by Gail Kaiser's policy i.e dont teach anything and screw grades, after all columbia will continue to pay her till she retires. Dumb fuck department and so are people connected to it.
+
+Review 15
+Review ID: 27874
+Submission date: 2012-12-31T02:14:19
+Course: COMS W4156 Advanced Software Engineering
+Professor: Swapneel Sheth
+Rating: 2
+Agree/disagree/funny counts: 35/2/0
+Review text:
+Feels like learning nothing but how to argue with TAs. Definitely not worth the tuition, and don't waste your money and time on it.
+
+The grading is the most ridiculous part - no guildelines on how the answers are graded, and for some assignments even asking questions regarding the assignment description is forbidden. If you argue with TA, you'll probably be rewarded a lower score. Someone accidentally witnessed how the TA graded the assignments - it was in a pretty irresponsible manner. No surprise if you find the TA didn't actually read your assignment, and gave you a random number instead.
+
+Swapneel is a good guy and might be a good researcher to work with, but so sad that he just didn't take the teaching job seriously.
+Workload notes:
+A group project (continues throughout the whole semester) and a few individual assignments. Most of them are reading and writing assignments.

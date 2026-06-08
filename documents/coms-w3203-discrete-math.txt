@@ -1,0 +1,230 @@
+Source title: COMS W3203 Discrete Mathematics CULPA reviews
+Source URL: https://culpa.info/course/397
+Source type: Public CULPA course review page / API
+Domain subtopic: proofs and discrete mathematics
+Course code: COMS W3203
+Course name: Discrete Mathematics
+Course ID: 397
+Total CULPA reviews reported: 101
+Reviews collected in this document: 15
+
+Professors listed on course page:
+- Zeph Grunschlag
+- Jonathan Gross
+- Ken Ross
+- Adam Cannon
+- Eitan Grinspun
+- Abishek Madduri
+- Dawn Strickland
+- Robert Holliday
+- Ilia Vovsha
+- Ansaf Salleb-Aouissi
+- Jessica Ouyang
+- Tony Dear
+- Daniel Rubenstein
+
+Student reviews:
+
+Review 1
+Review ID: 89971
+Submission date: 2026-05-25T13:26:58
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 4
+Agree/disagree/funny counts: 3/0/0
+Review text:
+Professor Dear is a very approachable, very experienced lecturer who teaches discrete math in a structured way. It is very clear what you need to learn in order to succeed in the course, and I found his programming exercises very interesting and manageable.
+
+Everything in this course (assignments, midterm, final) was extremely reasonable in terms of difficulty and workload. You might need to spend some extra time solving the assignments, but it is worth doing because the difficulty of exams closely mirrors the assignments. Final average was around 70%, but this is typical for a discrete math course because it's the first proof-based course for many. In my opinion, though, the exam was surprisingly light (some questions were trivial), and it felt almost too easy considering the fact he allowed us to bring 4 cheat sheets. If you put in the time understanding the assignment questions and carefully read through the Zybooks, you should be fine. 
+
+TLDR: course content is extremely easy, but exams can require some more careful thinking and problem-solving.
+Workload notes:
+6 Assignments, 1 Midterm, 1 Final. Prof uses Pensieve instead of GradeScope; the only difference between the two is that the former has built in Claude as an AI assistant for participation exercises. 
+
+I spent probably 1.5 hr on each HW, spent 7 hr total revising for each test.
+
+Review 2
+Review ID: 89847
+Submission date: 2026-05-17T20:45:42
+Course: COMS W3203 Discrete Mathematics
+Professor: Ansaf Salleb-Aouissi
+Rating: 5
+Agree/disagree/funny counts: 1/0/0
+Review text:
+I had one of the roughest semesters of my life, ended up with a ~50 raw score in the class. She gave me a C. I worship the ground she walks on.
+
+BTW, her assignment grading is decently lenient and I only got such a low score because I straight up did not do about half of the assignments. This is because I spent about half of the semester in what can best be described as a depression-spurred fugue state. Her textbook is insanely helpful and easy to understand. I used to think math was fun before calc and linear algebra and discrete definitely is fun if you like math!! I regret not doing more of the assignments not just for the grade but because they were actually fun.
+Workload notes:
+You get a cheat sheet for exams (there are 2). There were 11 written assignments and 4 python coding assignments. She drops the scores for your lowest written assignment and lowest coding assignment. I'd say they were pretty fair. The coding assignments took me under an hour and the written assignments were reasonable.
+
+Review 3
+Review ID: 89811
+Submission date: 2026-05-16T16:33:52
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 3
+Agree/disagree/funny counts: 0/0/0
+Review text:
+I liked that he posts his notes online and that the Ed is always very responsive. There's also recitation and office hours, which supplement the content/learning experience. He's definitely a very kind person but I think that the most common criticism -- that his exams are difficult -- is valid, especially as taking the other professor should lead to an easier experience. I believe it's curved to around a B+.
+Workload notes:
+6 homeworks for the entire semester -- each one is long and takes a while, but they're spaced out to at least account for that. If you take the Friday section you will only have 1 midterm (30%) whereas if you take the one with two classes per week, you will have 2 midterms (each 15%). He's very generous with the amount of cheatsheets you can bring to the exam.
+
+Review 4
+Review ID: 89591
+Submission date: 2026-05-04T10:22:22
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 1
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Prof Tony is kind and organized however, there is a huge gap between the examples he goes over in class vs the kind of questions that show up in the exams. Ngl, the final was the worst exam I've taken at Columbia after AP. However, I've heard that most math majors do fine in this class so, having a background in proof would be highly beneficial. I don't wanna sugarcoat so if you care about your gpa just take it with Ansaf.
+Workload notes:
+The HWs are hard and really long. I highly recommend starting them early. I should also mention that your exams will be checked by AI via pensive first and then the TAs will check over the deductions. It gets especially annoying when AI can't read something you wrote or worded in a different way.
+
+Review 5
+Review ID: 89138
+Submission date: 2026-02-13T15:58:26
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 3
+Agree/disagree/funny counts: 4/4/0
+Review text:
+Genuinely the hardest class I have ever taken at Columbia. BUT he does curve significantly to compensate for the extra rigor. 
+
+You will probably be fighting for your life at some points of this course, which has to happen at some point of one's academic career - this is an ivy after all!
+
+Don't freak out if you have to take this class with Dear - he is very nice, and you will probably learn more than the other section of Discrete.
+Workload notes:
+2 Midterms and a final. Homework due once every 2 weeks. Rather than individual exams being curved, he curves the end grade.
+
+Review 6
+Review ID: 88660
+Submission date: 2025-12-28T15:26:14
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 4
+Agree/disagree/funny counts: 4/0/1
+Review text:
+Began with logic which was actually really interesting. Super easy start to the course WAS VERY MISLEADING.
+Then went on to graph theory and connectivity. This was MEDIUM DIFFICULTY. I wish I had not gotten complacent after the first unit -- be warned it gets harder. 
+Then probability and encryption. HARD HARD HARD. I had taken prob before and thought it would be easy --- it was not. Honestly the subjects themselves are not too difficult, but I think that its easy to get scared off because you don't prepare enough. 
+
+LESSON: DO NOT GET COMPLACENT. 
+
+Overall, though, Tony Dear is amazing. He's hard, but that helps to make sure you do all the work. Only thing I wish is that he had a limit on late days, because it just becomes a system where the soft deadline doesn't really mean anything. Don't leave the HW for the last second.... Trust.
+Workload notes:
+Gets progressively harder. Not bad if you are consistent about it, probably around 8 hours a week. Do the textbook readings and make sure to actually understand everything that is on the homework and what is said in class. Do that and you'll be fine.
+
+Review 7
+Review ID: 88331
+Submission date: 2025-12-15T11:31:01
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 5
+Agree/disagree/funny counts: 2/13/0
+Review text:
+Amazing Professor. I found the lectures to be super helpful and directly relevant to the homeworks. While the exams were a little difficult, practice exams were designed in a way that prepare you well and they tested us on things that were covered in class. Professor Dear is always open to questions and extremely patient in answering them. Glad I decided to take Discrete with him. Great experience, all in all!
+Workload notes:
+6 HWs, 2 midterms, and 1 final exam. Reasonable workload
+
+Review 8
+Review ID: 87571
+Submission date: 2025-10-01T15:49:24
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 4
+Agree/disagree/funny counts: 2/1/0
+Review text:
+Tony Dear is a very clear and detail-oriented lecturer. He's cares about helping his students succeed, whether that be making extra office hours or a generous curve. However there is a large gap between the examples walked through during class and the homework problems, and a similarly large gap between homework problems and exam problems. Class examples are the foundations but for homework problems you need to learn how to apply your base knowledge. Also reviewing for exams is less about how many problems you do and more about deeply understanding the concepts and solutions for the problems you do. Discrete problems require a level of creativity, so it's more important to just understand what's going on than to crank out extra practice. Problem sets were pretty time-consuming and for harder units like Mod I had to self-study external material to understand. Definitely utilize your resrouces: go to TA and professor office hours. He's hard but fair. I would say take him if you are generally curious, like a challenge, and don't mind putting in the time outside of class to deeply understand the content. If you want an easy A, take Discrete with Ansaf. Final exam was extremely hard, ~110/150 is a good score for an A typically.
+Workload notes:
+Problem sets took ~6 hours/week. Exams took ~8-10 hours of review.
+
+Review 9
+Review ID: 87540
+Submission date: 2025-09-09T22:31:39
+Course: COMS W3203 Discrete Mathematics
+Professor: Ansaf Salleb-Aouissi
+Rating: 5
+Agree/disagree/funny counts: 2/0/0
+Review text:
+This class is taught very well and everything builds upon the previous concepts. How she taught it I felt like everything made sense and there were no prior gaps or concepts I struggled with. I took this over the summer after I had to drop this class before, and the way she teaches everything makes sense. Easily she’s one of the nicest CS professors and also very good at actually teaching course content and explaining why it matters. I also really appreciated her own textbook made for the class, everything felt straightforward and well prepared. I also feel like I learned more in this class with her since she really goes over the basics well and gives you a solid foundation in the material. Taking this class made me actually end up liking discrete math and I’m 100% glad I took it with her.
+Workload notes:
+Very straightforward problem sets, weekly and recitation problems, and text book readings. Recitation problems were sometimes tricky but helped a lot. Don’t cheat on the homework or any of the problems because they help to prepare you for the exams. Learning latex was the hardest part but also kind of rewarding. Really the hardest part of this class for me was proofs because they just take a lot of practice to make sense.
+
+Review 10
+Review ID: 87447
+Submission date: 2025-07-24T22:18:43
+Course: COMS W3203 Discrete Mathematics
+Professor: Ansaf Salleb-Aouissi
+Rating: 5
+Agree/disagree/funny counts: 2/0/0
+Review text:
+Took over the summer. Class builds fast but not overwhelmingly. If you study and plan well, you can definitely get an A. Class isn’t easy but she is a very good teacher which helps.
+Workload notes:
+Assignments ranged in difficulty but the easy assignments were easy to get A’s and the difficult assignments got curved.
+
+Review 11
+Review ID: 87421
+Submission date: 2025-07-05T16:49:57
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 4
+Agree/disagree/funny counts: 1/1/0
+Review text:
+I expected this class to be tough because of previous review, and it was, but it wasn't impossible. Really understanding the first few topics (especially everything to do with proofs) is super important because they reappear for almost the entire course. His teaching style is clear, he writes notes and works full examples for us, he answers as many questions as he can and overall seems direct and focused but friendly. The content was well organized, as was Ed, which he used to post lecture notes, practice midterms, etc. Attending recitations was a great place to understand how to attack harder problems like the ones on exams.
+Workload notes:
+7 homework assignments, 2 midterms, and a final. 
+
+The homework assignments are for the most part doable, a step above the notes with an occasional much more difficult problem. Maybe 4-6 hours a week for this.
+
+The exams were much more difficult than the notes, and while recitations didn't match this thinking, they sometimes gave pointers on how to approach more difficult questions. Doing the practice exams and making sure you understand the solutions are crucial for the midterms, and for the final....just try to get as many points as you can.
+
+Review 12
+Review ID: 87396
+Submission date: 2025-06-20T16:37:17
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 3
+Agree/disagree/funny counts: 4/0/0
+Review text:
+I will admit, this class was tough. Prof Dear does a great job of explaining the course material, and always answers questions well. The subject, though, is proof-based, so you may understand all the concepts but might not know how to prove a certain problem. The exams in his class are also quite difficult, the final was the worst one. He posts practice exams that give you a decent idea of the topics included and the level of mastery you need, but using them as your only study material is not a good idea.
+Workload notes:
+2 midterms, 15% each; 1 final, 35%; 7 homework assignments, 30%; participation quizzes, 5%. About 2 weeks to complete each homework assignment, each is around 6 questions with multiple parts per question. Participation quizzes are pop quizzes but they are completion grades: if you take all the quizzes, you have 100% for participation. You can make up a quiz by attending the recitation that week.
+
+Review 13
+Review ID: 87390
+Submission date: 2025-06-12T06:49:40
+Course: COMS W3203 Discrete Mathematics
+Professor: Ansaf Salleb-Aouissi
+Rating: 5
+Agree/disagree/funny counts: 3/0/0
+Review text:
+I don't understand all the negative reviews, she's GOATed. Breaks down concepts so you can understand. She cares more that you get it rather than trying to trick and challenge you at every turn and having the class average be in the 40s and 50s so you depend on the curve like other CS professors. Also extremely sweet and her lectures are engaging.
+Workload notes:
+5 assignments, not too bad
+
+Review 14
+Review ID: 87279
+Submission date: 2025-05-24T02:51:43
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 4
+Agree/disagree/funny counts: 20/1/0
+Review text:
+Prof. Dear is quite a good teacher overall, and lectures are very worth going to. The most common (and valid) complaint is that his exams are harder than his in-class examples. Since Discrete is proof-based, test difficulty often came from not being able to think of the correct route for a proof, which is hard to study for. I personally liked the class a lot, but experiences vary. If you have prior experience with competitive math/similar concepts, you should be fine.
+Workload notes:
+Biweekly homework (30%) + two midterms (30%) + final (35%) + participation (5%). Homework was decently heavy.
+
+Review 15
+Review ID: 87237
+Submission date: 2025-05-22T13:48:49
+Course: COMS W3203 Discrete Mathematics
+Professor: Tony Dear
+Rating: 4
+Agree/disagree/funny counts: 1/1/0
+Review text:
+Everyone says that the class is really hard—and to be honest, it is quite a bit of work. However, I wouldn’t go as far as to say you should avoid Professor Dear at all costs. Discrete Math is an introduction to proof-based mathematics, so it's no surprise that it feels challenging at first. That said, Professor Dear's class is genuinely informative, which is especially valuable if you plan to do computer science in the future. The course follows a textbook, though a few chapters are skipped. In a nutshell, it was a tough but interesting class with a professor who is eager to explain topics you don’t understand
+Workload notes:
+There were a total of seven problem sets, assigned roughly every two weeks. The exams were difficult and often went beyond the level of the homework and recitation questions, this gap became more noticeable as the semester progressed. The median score dropped significantly from the first midterm to the final. However, since the class is graded on a curve, it didn’t impact final grades as harshly as it might have otherwise. 
+
+The main advice for anyone planning to take this class with Professor Tony Dear is simple: show up. Attend every lecture and recitation, start working on the homework early, and make use of office hours. It’s extremely difficult to succeed in this class without putting in the work—unless you already have a strong background in proof-based mathematics. On average, I spent about 12 hours per week on this class. Sometimes it was less, but during exam weeks, it could be as much as 20 hours.

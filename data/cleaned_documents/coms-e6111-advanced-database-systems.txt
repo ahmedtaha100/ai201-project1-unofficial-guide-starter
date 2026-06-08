@@ -1,0 +1,83 @@
+Source title: COMS E6111 Advanced Database Systems CULPA reviews
+Source URL: https://culpa.info/course/4956
+Source type: Public CULPA course review page / API
+Domain subtopic: graduate database systems
+Course code: COMS E6111
+Course name: Advanced Database Systems
+Course ID: 4956
+Total CULPA reviews reported: 5
+Reviews collected in this document: 5
+
+Professors listed on course page:
+- Luis Gravano
+
+Student reviews:
+
+Review 1
+Review ID: 83977
+Submission date: 2023-05-15T20:33:24
+Course: COMS E6111 Advanced Database Systems
+Professor: Luis Gravano
+Rating: 5
+Review text:
+Professor Gravano is a fantastic professor. He makes the material very digestible, and everything is taught clearly with easy-to-follow slides. Ed posts are answered in a timely manner, and he always answered e-mails I sent with additional questions about assignments or the lectures. (He assigns papers and textbook chapters as additional readings, but no extra knowledge is required beyond what is directly taught in class.)
+Professor Gravano is also obviously a very nice and friendly guy. I personally find that it makes a big difference in class when you can tell the professor is rooting for you and wants you to do well.
+Overall, I found the concepts to be very relevant and interesting, and I really enjoyed the material. This is a must take if you are even remotely interested in the topic (and maybe even if you aren't).
+Workload notes:
+There are three projects (that you do with a partner). They are equally weighted and are 50% of the grade. They are pretty cool assignments and do a good job of supplementing your understanding of the lectures. Most people get 100% on the projects. (Medians were 100%, 100%, 100% and means were 93%, 95%, 97%.)
+There is also a midterm and final (non-cumulative). Professor Gravano posts the previous year's tests and he follows a very similar format for each test, so you have a pretty good idea of what's coming on the test.
+I would have to assume most people got A's in the class, and while the projects do take some time, they are very doable.
+
+Review 2
+Review ID: 83742
+Submission date: 2023-04-16T21:01:35
+Course: COMS E6111 Advanced Database Systems
+Professor: Luis Gravano
+Rating: 4
+Review text:
+His lectures are one of the clearest ones at the Columbia CS department. Workload and lecture coverage are pretty light; yet, you learn a lot of things. He is the kind of professor who explains difficult concepts in an easy-to-digest way. Highly recommend.
+Workload notes:
+Lighter than most CS classes -- 3 project homeworks, 1 midterm, 1 final.
+
+Review 3
+Review ID: 82093
+Submission date: 2020-05-06T13:06:35
+Course: COMS E6111 Advanced Database Systems
+Professor: Luis Gravano
+Rating: 3
+Review text:
+I took this class during the COVID19 pandemic (Spring 2020). He is obviously a master of the subject and his lectures are clear but they are incredibly boring, there are 3 homeworks and all of them are long but easy. Because of the pandemic, our midterm was pushed continuously until Gravano decided to just cancel the midterm (at the time midterm was 20%, final 30%, hw 50%) and make the grading distribution as follows: final 50%, homework 50%, which is horrible because a single day's performance can decide if you fail this class or not. After a Piazza post and numerous students agreeing that making the final 50% is too much, Gravano graciously(!) changed the distribution of the final to 40% instead of 50%.... Also, there are a lot of grad students in this class and the homework averages were 9.5-10 out of 10 every time even in the pandemic, so make sure you keep up with the homework and follow all of his instructions.
+Workload notes:
+3 homeworks -- long but easy. There used to be a midterm but was cancelled due to the pandemic. 1 final.
+
+Review 4
+Review ID: 79576
+Submission date: 2016-12-17T19:28:34
+Course: COMS E6111 Advanced Database Systems
+Professor: Luis Gravano
+Rating: 4
+Review text:
+Solid and enjoyable class. The course essentially surveys different areas of database systems (e.g. information retrieval, OLAP systems, data mining etc), beyond the relational paradigm that is covered in 4111. We typically spent 1-2 lectures on each topic. While that meant we weren't necessarily able to go into too much depth, Prof Gravano does a great job explaining everything and I personally felt like I got a lot out of the class.
+Professor Gravano is really nice, in addition to being a great lecturer. The readings were helpful, but his lectures are really clear and I found them to be most helpful for learning the material. He was very responsive on Piazza too which is always helpful. He seems to care about his students, and did a good job answering questions in class.
+Overall, highly recommended course.
+Workload notes:
+Not too bad. We had three programming projects which took a bit of time, but if you start early you won't have any issues. A midterm and final (not cumulative), neither of which were terribly hard. Of course there's a curve so it's all relative
+
+Review 5
+Review ID: 29612
+Submission date: 2014-06-04T05:06:27
+Course: COMS E6111 Advanced Database Systems
+Professor: Luis Gravano
+Rating: 3
+Review text:
+This is an acceptable course, but I have mixed feelings about it. Let's establish some baseline. Dr. Gravano is undoubtedly a capable lecturer, able to explain concepts lucidly. He occasionally told jokes that made the classroom laugh (sometimes). I'm pretty certain he genuinely cares for his students. You will almost certainly learn a lot of new and useful stuff while taking this course. Overall, the course was planned and executed well.
+If you are on the NLP or ML track â€“ or you have a strong interest in search engines or big data, you should certainly take this course. This course definitely falls squarely in that domain (I mean hey, the free textbook was on the NLP part of Stanford's website...). I suspect the facts you will learn will be very relevant to you. However, if you are on the software track taking this course just because it has good reviews and fulfills a requirement, I'd suggest giving other courses stronger consideration. I don't exactly regret taking this class, but I think I could have chosen better.
+Dr. Gravano curves the median to a B+ or A-. You may be thinking â€œSure, I'll just score above average!â€ but in a 90 something class full of smart people and easy assignments and tests, this is tricky to do â€“ and there is a good component of luck involved.
+The two tests which comprise 50% of your grade are themselves comprised of about 40% (each) true false questions. That's 20% of your grade roughly! I felt that some of them were vaguely worded and it's pretty hit or miss if you remember the specific fact the question tests you on.
+You'll either need a very good memory or be very planned and careful how you review the lectures, because you really could get tested on any bullet point in them. It's fair and doable, but that's not my style. I'd rather be tested on my ability to apply what I learned to solve problems than my ability to simply remember details about stuff I could recall by referring to the textbook or my notes (neither of which are allowed on the exams). Oh, and the readings are often straight torture. Thankfully, I don't ever remember seeing a question that was in the reading but not the lecture. Much of the writing was by authors showing off their ability to encrypt simple concepts into Latex strings. Dr. Gravano's lectures blew the textbook out of the water.
+The rest of the tests involve manually carrying out an algorithm he discussed in the lecture. The tests are easy, but I'm really not a fan of easy tests because mistakes will cost you a lot more. But that's obviously my opinion... you might think otherwise.
+The HWs (java or python) certainly aren't trivial, but they aren't complicated either. The class generally averaged 9/10 on them with a very small standard deviation. I think I learned more about Python than I did about search algorithms or the subject matter of the class while doing the assignments. The first and last project implemented an algorithm that is probably only a step or two above the complexity of what you would encounter in an undergraduate data structures class at a reasonably competitive school. The second project mostly involved string formatting and learning how to use the API to google's open knowledge database. Personally, I found it pretty tedious.
+This is not to say the assignments can be finished in two days. The API in the second project took forever to figure out, but I'd really rather invest my energy somewhere other than learning an API I won't use again in the foreseeable future.
+In the grand scheme of things, this is not a bad class. Good for some people, less so for others. As you can tell by the other positive reviews, some folks do enjoy it. I see where they are coming from. Some of the things I don't like about the class are a matter of personal taste. I hazard to say you will likely get your tuition's worth on this class. If you are NLP or ML I think you almost certainly will. I'm just saying this class isn't for everyone.
+Workload notes:
+The workload is medium-light. If you are taking some insanity classes like OS or cloud computing, this might be worth using to pad your credits to full time so you don't overstress yourself but still learn a few things -- but again, give other courses some consideration.

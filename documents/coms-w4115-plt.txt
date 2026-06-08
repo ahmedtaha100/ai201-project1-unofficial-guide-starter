@@ -1,0 +1,279 @@
+Source title: COMS W4115 Programming Languages and Translators CULPA reviews
+Source URL: https://culpa.info/course/3105
+Source type: Public CULPA course review page / API
+Domain subtopic: programming languages and translators
+Course code: COMS W4115
+Course name: Programming Languages and Translators
+Course ID: 3105
+Total CULPA reviews reported: 29
+Reviews collected in this document: 15
+
+Professors listed on course page:
+- Stephen Edwards
+- Alfred Aho
+- Vishal Misra
+- Baishakhi Ray
+- Ronghui Gu
+
+Student reviews:
+
+Review 1
+Review ID: 86501
+Submission date: 2025-01-22T14:41:47
+Course: COMS W4115 Programming Languages and Translators
+Professor: Baishakhi Ray
+Rating: 1
+Agree/disagree/funny counts: 1/0/0
+Review text:
+Avoid this professor at all costs, take with another professor if possible. 
+Very unprepared professor, constantly had mistakes when teaching the class. The content was interesting, however it was just not taught very well. 
+Very poorly written exams, with very poorly written rubrics. Sometimes there was no space given to write your solutions to the questions.
+No midterm/final practice exams. There was a midterm/final review but they were nothing like what was on the exam.
+
+We didn't recieve homework solutions (main homework) before the midterm, so it was really hard to study for. 
+
+There's extra credit, but it doesn't make up for the curving of the grades down. The extra credit wasn't graded for the pop quizzes/ assignment until several weeks after the final exam.
+Workload notes:
+~6 hrs a week on average.
+Terrible grading style, only about 3 things were graded before the final exam so you had no idea how you were doing.
+Not even sure how they graded the projects, because it seemed like everyone got 100% even though that shouldn't have happened,
+so that resulted in her curving the grades down:
+
+A = 97+ (~93rd percentile)
+A- = 93+ (~78 percentile)
+B+ =90+ (~70th percentile)
+B = 86+ (~40 percentile)
+B- = 80+ (~14 percentile)
+C+ = 72+ (~3.6 percentile)
+C = rest
+
+So basically, if you did average on the exams, you got between B- and B.
+
+Review 2
+Review ID: 86491
+Submission date: 2025-01-21T23:00:02
+Course: COMS W4115 Programming Languages and Translators
+Professor: Baishakhi Ray
+Rating: 1
+Agree/disagree/funny counts: 0/0/0
+Review text:
+I liked the content of this class, and Professor Baishakhi is nice and approachable and her lectures are somewhat entertaining. However, she does not care about her students and does not know the content well at all. She made countless mistakes throughout the lectures that students would correct. She would take an agonizing amount of time going through content that was covered in required prerequisites. Her homework was fun and challenging but graded without feedback. And the final grade was curved down. She is a nice person but not a good professor. If you can, take this class with a different professor.
+Workload notes:
+3 assignments which felt like too little. Very little prep is given for exams. On average I spent about 5 hours a week on this class (outside of class)
+
+Review 3
+Review ID: 86223
+Submission date: 2024-12-28T22:54:04
+Course: COMS W4115 Programming Languages and Translators
+Professor: Baishakhi Ray
+Rating: 1
+Agree/disagree/funny counts: 1/0/0
+Review text:
+One of the worst professors I’ve ever had at Columbia. She is highly disorganized, with slides often not being uploaded, even as late as the week leading up to finals. The teaching team is extremely unresponsive to emails and ed posts. Exam, homework, and project instructions/questions are often not worded properly, and requests for clarification often go unanswered. Grading deadlines are rarely met - by the time finals approached, only HW1 and Programming Assignment 1 had been graded. While the course content is interesting, the professor’s poor management makes this class one of the worst at Columbia.
+Workload notes:
+3 written hw, 3 programming assignments (4 but the last one is optional), 1 midterm, 1 final
+
+Review 4
+Review ID: 85512
+Submission date: 2024-10-08T16:54:10
+Course: COMS W4115 Programming Languages and Translators
+Professor: Ronghui Gu
+Rating: 5
+Agree/disagree/funny counts: 2/0/0
+Review text:
+This class had the coolest content I have ever learned at Columbia. Even if you don't know if you're interested in programming languages and compilers, I would still recommend this class. By the end of the class, you will have an entirely original compiler that you and your group built yourself. It's still kind of insane to me that a topic as complicated as compilers can be conveyed in such a modular and actually understandable way. Professor Gu is super approachable and knowledgable. You also learn OCaml, which is a super weird and fun language.
+Workload notes:
+Not a light workload but absolutely manageable. 4ish problem sets, which are a combination of OCaml programming and theoretical questions about the algorithms/tools learned in class. The problem sets aren't particularly difficult once you get a hang of OCaml. The midterm and final were also both super manageable, the professor and TAs pretty clearly lay out what is going to be on the test, most questions are different versions of problems done in class. The bulk of the work comes in a semester long project where you implement a compiler from the ground up. This is a pretty big undertaking, but if you do it incrementally and work on the parts of the compiler as they are taught in class, it will be very doable. The project is done in a group of 6, so it's pretty important that you have a good group to make this project much more manageable since it is a considerable amount of work.
+
+Review 5
+Review ID: 84339
+Submission date: 2023-12-02T16:16:32
+Course: COMS W4115 Programming Languages and Translators
+Professor: Baishakhi Ray
+Rating: 1
+Agree/disagree/funny counts: 0/0/0
+Review text:
+The professor is very disorganized.
+Workload notes:
+There are 4 written assignments, each is at least 4 pages long, and each assignment is only worth 2.5% of overall grade...
+
+Review 6
+Review ID: 83051
+Submission date: 2021-05-01T00:00:00
+Course: COMS W4115 Programming Languages and Translators
+Professor: Stephen Edwards
+Rating: None
+Agree/disagree/funny counts: 1/0/1
+Review text:
+Positive things:
+
+- There is no doubt that Professor Edwards is very knowledgeable about his field and really cares about helping students who are reaching out to him and want to learn from him.
+
+- He holds 167468294 office hours a week, so take advantage of them. 
+
+- He responds to emails in light speed.
+Areas of improvement:
+
+- If you're going to constantly run over the end of class time, you might as well ask the CS Department to make your class 2 hours long, so people have better expectations. Although that would require Edwards to deal with bureaucracy, which I'm pretty sure he won't bother with. It's much easier to fuck with student schedules for him, but it irritates the fuck out of every student.
+
+- Set a deadline for grading for your TAs, man. It's not that hard. 
+
+- Please get TAs that actually know OCaml... 
+Negative things inherent to the course:
+
+- Pick a good team or you'll get fucked. The project is monstrous and you can't do it alone. You need good teammates to decide on the project features together and implement them together.
+
+- I understand that Edwards tries to teach a lot, which is why we have individual assignments, midterm (normally, it was canceled this sem), final, a monster project, a ~250 page final paper on the project... but man, this is a lot of work. If you're not ready to put in the hours, don't take this class.
+
+- Docker and OCaml can be very frustrating, but they will uncover new areas of software development for you.
+Advice:
+
+- Test everything. He won't accept anything that's not tested.
+
+- Start the project early.
+
+- Edwards is snarky, don't take it to heart.
+
+- If the assigned TA is useless, stop wasting your time meeting with them immediately.
+
+- Trust Edwards in that when he's giving project advice, he's thinking the best for you. He's also not out to get you in the exams.
+Workload notes:
+
+
+Review 7
+Review ID: 83052
+Submission date: 2021-05-01T00:00:00
+Course: COMS W4115 Programming Languages and Translators
+Professor: Stephen Edwards
+Rating: None
+Agree/disagree/funny counts: 2/0/0
+Review text:
+Ok first I took this during a COVID semester. With that being said, I personally don't think Edwards taught. He kinda just read off his old slides and circled some things. I also think we spent way too long on the wrong material and then suddenly material in the middle-back half of the semester was essential to the final project. It was hard to start parts of the final project early since we didn't know a lot of the material needed to actually build our language.
+Workload notes:
+
+
+Review 8
+Review ID: 83053
+Submission date: 2021-04-01T00:00:00
+Course: COMS W4115 Programming Languages and Translators
+Professor: Stephen Edwards
+Rating: None
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Stephen Edwards is objectively an outstanding professor who made the online year a little better for me. I took both of his classes, and I thought he adopted to the online format very well (he makes great use of Zoom's chat feature for questions). He is incredibly organized, cares a lot about his classes and his students, and has some outstanding TAs (Ben Flin and Hans Montero were amazing). Not to mention, he is one of the only Professors in the CS department who actually tries to get to know undergraduates in his classes! I really appreciated this and feel like I actually know him now.
+Oh, and did I mention that Prof. Edwards is absolutely hilarious? I think the quotes above will suffice, but his slides have great memes, his Facebook might be the most entertaining of any Professor's, and he is incredibly witty. If you enjoyed Donald Ferguson's snarky humor, Professor Edwards is for you; if you have a thin skin, you might want to stay away, since he will absolutely sass you back. I, personally, think it is wonderful, and I think most people do as well.
+As for the actual classes, Parallel Functional Programming is an introduction to programming in Haskell. The first half is sequential Haskell and the second half is parallel Haskell. Haskell is nothing like other programming languages you have been exposed to (unless you have taken PLT and are used to OCaml), and it probably does warrant an entire course since it forces you to think in an entirely new way. There are 5 HW assignments and a medium-workload final project that you spend the last month or so on and do in groups of 2. I'd absolutely recommend this to anyone looking for a chill class, even if they aren't on the systems track (Edwards has said this is similar to a 41xx class).
+Programming Languages and Translators is an introduction to Compilers, and for many students, functional programming with OCaml. I was at the advantage of having taken PFP beforehand so this wasn't a huge jump for me, but it is for many. You also learn some theory. There are 3 light-ish HW asignments, a final, and a very heavy group project that you do in teams of 3-5. Pick a good group!
+I believe both classes were curved to a B+, so it is very possible to do well. I cannot recommend Prof. Edwards any more than I already have; seriously, take a class with this man! If for nothing else, the memes are worth it.
+Workload notes:
+
+
+Review 9
+Review ID: 83055
+Submission date: 2021-04-01T00:00:00
+Course: COMS W4115 Programming Languages and Translators
+Professor: Stephen Edwards
+Rating: None
+Agree/disagree/funny counts: 0/0/0
+Review text:
+I think Edwards is generally a good teacher. His office hours are really helpful and his HW assignments and exams are reasonable (most questions are basically the same as the HW questions except for one or two. The slides are super helpful and it was a good class to take over Zoom because I was able to rewatch a bunch of his lectures if I was ever confused. He's a pretty good lecturer, except that on Zoom he lets and encourages people to make random show-offy comments with inside CS jokes that are distracting, annoying, wastes time, and makes everyone who doesn't get them feel dumb for not knowing the conventions of some obscure language. We get it, Matthew Ottomano, you know Haskell.
+In terms of the group project, it's very tricky, and you don't really get taught the material you need to do it until after you had to do it, and even once we learned the theoretical part of what we were doing, it was really hard to translate that to what we were implementing. Basically, you're very much on your own for figuring out to add features to your language beyond a basic C like language you're given as a starting point. For our group it wasn't too bad, but it's mostly because one of the people in our group clearly understood everything way better than the rest of us did and did a ton of the work. I'm not saying the rest of the group were slackers, everyone tried hard and put in a lot of hours, but we'd struggle to pair program a feature for hours and then the other person in our group would have just fixed it and also miraculously added a bunch of other features by the next time we talked. That said, the group you are with is super important. I don't have great tips about how to find a good group. Someone who you think is super smart is not necessarily the best teammate. It helps if you've worked together before and understand their workflow and work ethic. It's pretty cool to have a finished product by the end, but I don't even know how much of it I understand beyond the features I implemented. Actually even those I feel like I kind of stumbled around in the dark in making them, so I don't know if I actually understand them either.
+Finally, the TAs were not great in the class. One was fired apparently half way through the semester, some didn't seem to know Ocaml or really how to help with the project. I think it was partially because Edwards hadn't taught the class in a while, so he didn't have a super solid group of TAs that had taken his version, which I understand, but was kind of frustrating. 
+Overall, this wasn't the worst class, and I would generally recommend taking it with Edwards. Your group will be the main determining factor on your experience taking the class, though.
+Workload notes:
+
+
+Review 10
+Review ID: 83054
+Submission date: 2021-04-01T00:00:00
+Course: COMS W4115 Programming Languages and Translators
+Professor: Stephen Edwards
+Rating: None
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Great class. Some issues with the curriculum: we spent way too long on things like DFAs, NFAs, and regexes, which are covered pretty fully in CST, which is a prerequisite for this class, so that was a bit of a waste of time. We also spent a bit too long on covering code generation, which became repetitive, so we did have to rush a bit at the end. But codegen is really important for the project, so it shouldn't be ignored, but spending ~5 classes on MicroC codegen was a bit much.
+Edwards is a great lecturer. He's very funny and presents the material in a way that makes it very conducive to picking it up rapidly (or wickedly fast, as he would say). His lectures were actually a joy to go to.
+The best part of this class imo is the project, though. One of the most rewarding pieces of work I've done at Columbia. It really is a great synthesis of all the course material, and juts is a lot of fun to work on. Start work early, and work consistently. It will be a great time.
+Workload notes:
+
+
+Review 11
+Review ID: 81719
+Submission date: 2019-12-24T19:57:30
+Course: COMS W4115 Programming Languages and Translators
+Professor: Baishakhi Ray
+Rating: 2
+Agree/disagree/funny counts: 3/0/2
+Review text:
+Very disorganized professor - every homework/programming assignment needed last minute clarifications. 
+
+Teaching was disorganized (didn't learn a single thing from lecture), and what was discussed in lecture was completely different from the homeworks. Doing the homework assignments depended on going through the source code of LLVM, navigating around documentation on your own, and trying to figure out what was going on. This was justified by the professor because she said that obviously theory taught in class will be different from applications on homeworks. But had a student not posted a Google Doc on Piazza of research that she had compiled and shared with the class, honestly I wouldn't even know what LLVM is. Grading was very arbitrary.
+
+Overall, I think the professor cares very much about teaching her students and making sure that we understand. This is apparent because she took time in class to ask for and answer questions. However, I had no questions because I didn't even know what to ask. All her slides are also adopted from other professors and better versions can be found online.
+
+I would recommend taking PLT with any other professor if possible.
+Workload notes:
+3 written homework assignments; 5 programming assignments
+1 midterm, 1 final on the last day of classes
+
+Review 12
+Review ID: 81679
+Submission date: 2019-12-16T20:09:12
+Course: COMS W4115 Programming Languages and Translators
+Professor: Baishakhi Ray
+Rating: 1
+Agree/disagree/funny counts: 5/0/1
+Review text:
+Incredibly poorly run class. Homework grades released months after assignments were submitted, rarely in time for exams. Only 1 homework covered material on the final exam, incomplete answers were released 5 hours before the final. Programming based assignments barely reflected theory learned in class, most of the work was done in reading documentation of the framework we were working in. Professor refused to release answers to last programming assignment publicly (answers required for extra credit assignment due during finals period), and students had to chase after TAs to get the solutions mailed individually.
+Workload notes:
+5-8 hrs a week
+
+Review 13
+Review ID: 80614
+Submission date: 2018-01-17T19:12:16
+Course: COMS W4115 Programming Languages and Translators
+Professor: Stephen Edwards
+Rating: 3
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Edwards is very prepared and cares a lot about the students, the course, and his TAs. He is engaging, funny, and not monotonous, but nevertheless his lectures are a bit awkward and hard to follow. That's because he mostly just verbalizes the symbols on his slides.
+
+E.g. If there is an arrow from A to B on a particular slide, he would just say "x moves from A to B".
+
+To improve his lectures, he could repeat what he is trying to get across more times (so we can have time to think about why x would move from A to B, and be able to more easily do problems of that sort) or actually elaborate on the reasons behind the actions that happen on his slides, to students.
+Workload notes:
+HW included written problems (most, but not all, were quick and easy) and programming (reasonable).
+Midterm and Final exams (reasonable).
+Plus, one semester-long group project, so if the work is split up well, the entire project could be less time consuming than a single difficult Fundamentals of Computer Systems project!
+
+Review 14
+Review ID: 80205
+Submission date: 2017-09-12T05:58:07
+Course: COMS W4115 Programming Languages and Translators
+Professor: Stephen Edwards
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Professor Edwards is an awkward turtle, but likely one of the best lecturers I have ever had. This course is a heavy amount of work, but I can't imagine someone better to inspire a passion for programming language design as well as compilers (although he himself recommends Aho). 
+
+Like everyone said before, the final project is a monster, it's really the whole course in one project. That being said, this is one of those classes where almost all the theory you learn in lecture can be directly or indirectly addressed by the design and coding of your project. 
+
+Everyone says to pick an amazing team, which if you are like me and took the course your first sem in Columbia, is like saying try really hard to get lucky. Nevertheless, whoever your team may be, it pays off to work on your project incrementally and try to get everyone involved as early as possible. In the end, I think he mentions almost all projects get good grades although you'll have to work hard on yours. 
+
+TL;DR: Take this class if you're really interested in the subject matter. Not a good class to tack on for a GPA boost or to check off a requirement.
+Workload notes:
+Heavy, but fair.
+
+Review 15
+Review ID: 79944
+Submission date: 2017-04-25T20:20:18
+Course: COMS W4115 Programming Languages and Translators
+Professor: Stephen Edwards
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+Professor Edwards is fantastic. He is engaging, funny, and extremely smart. This was a really great class, and I learned a ton. That being said, the project is definitely a ton of work, so start early! The material that you learn in class doesn't help much with the project itself. So, don't worry about starting the project before you feel like you learn the relevant information in class, because you likely will learn the information way after you need to already have applied it to your compiler.
+Workload notes:
+Midterm, in class final
+3 short homeworks
+Giant Project

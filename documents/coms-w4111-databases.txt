@@ -1,0 +1,240 @@
+Source title: COMS W4111 Introduction to Databases CULPA reviews
+Source URL: https://culpa.info/course/664
+Source type: Public CULPA course review page / API
+Domain subtopic: databases
+Course code: COMS W4111
+Course name: Introduction to Databases
+Course ID: 664
+Total CULPA reviews reported: 51
+Reviews collected in this document: 15
+
+Professors listed on course page:
+- Ken Ross
+- Luis Gravano
+- Alexandros Biliris
+- Eugene Wu
+- Donald Ferguson
+- Kenneth Ross
+- Donald Ferguson
+
+Student reviews:
+
+Review 1
+Review ID: 89848
+Submission date: 2026-05-17T20:57:22
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 4
+Agree/disagree/funny counts: 3/0/0
+Review text:
+He's very nice. I learned very little. The course is a bit disorganized (we were still getting info on how many assignments and exams there would be until the last week or so of classes) but he does allow you to attend over Zoom which was like a dream to me. First two exams were asynchronous online. I had a lot of issues with the online proctoring software and the final ended up being in person, so I'm guessing exams will be in person going forward. You can bring as much printed material as you desire to the exam, which was brilliant because I knew nothing and still scored highly. He openly encourages using AI to complete assignments and do various coding tasks (which is great if you're lazy but doesn't do much for retention). 
+
+I underwent a massive depressive episode this semester which resulted in my raw score being a failing grade, but he graciously gave me an undeserved C, and for that I am obliged to rate him four stars.
+Workload notes:
+Four very easy and manageable assignments and three open-note exams. The assignments make up 25% your grade and each exam is 25%.
+
+Review 2
+Review ID: 89252
+Submission date: 2026-03-31T20:20:30
+Course: COMS W4111 Introduction to Databases
+Professor: Luis Gravano
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+I really enjoyed the class and Prof. Gravano was really kind. Compared to the experiences of some of my other friends who took the class with other professors, I definitely think this class was really organized. The second half of the course was a bit difficult but it wasn't too bad.
+Workload notes:
+3 homeworks, 1 midterm, 1 final
+
+Review 3
+Review ID: 88530
+Submission date: 2025-12-20T19:19:09
+Course: COMS W4111 Introduction to Databases
+Professor: Kenneth Ross
+Rating: 4
+Agree/disagree/funny counts: 1/0/0
+Review text:
+If you're hoping to learn SQL and how to use databases, this class does that... but only for the first few weeks. After that, it is all database management systems, but after the class you do have a pretty good idea of how databases are implemented which is useless for most people at the face level, but very useful for actually using databases. 
+
+Still, the material is boring. Ross lectures as if he understands this fact and has surrendered to his powerlessness in changing it. Every lecture consists of a new topic which he explains well and a few examples. The review lectures are pretty useful. 
+
+Basically, the structure, workload, and instruction of the class are all pretty good thanks to Ross, but you will be falling asleep anyway which is mostly the material's fault.
+Workload notes:
+Workload is not high. The only work outside of the midterm and final are 2 HW assignments, which are SQL practice, and the semester-long project has you building a full-stack application (Python/Flask) which is genuinely useful experience, especially earlier on in your CS career. There is also an option for a project without coding, though I do not know much about it except that it sounds more boring. Therefore, the homeworks are pretty useful. The midterm (15% of the grade) and final (40% of the grade) do ask a few SQL questions, but are mostly theoretical questions about DB management systems. The midterm and final averages were around a 60 for the midterm and a 45 for the final which are kind of crazy considering databases is not supposed to be a terribly difficult class. There is a policy where the final replaces the midterm but that doesn't really happen since the midterm is hard, but the final is an affront to God himself. Ross curves reasonably though, so if you are able to repress the anxiety your raw scores will undoubtedly give you, you'll be alright.
+
+Review 4
+Review ID: 88266
+Submission date: 2025-12-12T18:26:50
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 1
+Agree/disagree/funny counts: 2/0/0
+Review text:
+I knew this class was going to be different than my other CS class due to the 2hrs Friday classes but I nothing prepare for how horribly organized this class is. If you are someone who needs structure please, please avoid this class at all cost, nothing is set, deadline and lectures changes at random. The professor get rude and start being very passive aggressive at people for asking questions because he had contradicting instructions. Homework were extremely easy, to the point they do not prepare for you exam materials because you just control f on the slides for the right answer. Horrendous experience :(
+Workload notes:
+was supposed to be 5 HWs but we only got to do 4 of them. 3 exams - Very random times in the semester.
+
+Review 5
+Review ID: 87432
+Submission date: 2025-07-10T00:05:26
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 5
+Agree/disagree/funny counts: 0/5/0
+Review text:
+I thoroughly enjoyed the class. Dr. Ferguson is interesting and hilarious throughout, making snide comments at students with dumb questions in between some light academic faire about how databases work and how there's a "database algebra", an algebra someone invented that is somehow easier than regular middle school algebra. I highly recommend the course for anyone trying to juice their GPA with a totally achievable A+
+Workload notes:
+Easiest class I've taken in my entire CS career. I literally cannot conceive of a professor giving less work and getting away with it.
+
+Review 6
+Review ID: 87333
+Submission date: 2025-06-01T10:59:57
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 1
+Agree/disagree/funny counts: 1/0/0
+Review text:
+I had heard that Ferguson's class was easy in the past due to take home exams, so I chose to take Databases with him as opposed to the other database professors. It turns out, this class was extremely difficult. Not in the sense that AP is difficult because there's a lot of tricky content, but rather due to how disorganized the class was run logistically. The class feels like getting a ton of fragmented content thrown at you each week, and your job is to figure out how to make sense of it all and organize it into something that makes sense. It's like if you have 1000 necklaces tangled together and you have to untangle them all. This is frustrating because it takes your focus away from actually learning about database systems and makes you waste your time on organizing lecture content. Professor gets upset at how low the lecture attendance rate is on zoom and in-person combined, which is valid. At the same time, the low attendance reflects the sentiment shared by a lot of students in the class that the lectures are incoherent and thus unhelpful. We learn more about the content if we spent lecture time teaching ourselves instead of watching the lecture. Having finished the core of the cs major and multiple cs electives too, I can confidently say this is the worst CS class I've taken. A schedule of assignments is posted on the first week of class, but we deviated from the schedule starting with assignment 1. It's really tough to plan your workload ahead of time, because it's common that the assignments are announced by surprise. Deadlines for the homework are often pushed back if many students ask for extensions, but this results in unpredictable deadlines for future assignments. Professor had said that we will get at least 2 weeks of time to complete each assignment, but due to all the extensions, we only had 1 week to complete the last homework assignment, which was released during the last week of class (aka when many finals are scheduled on the last day of class, and when we also had to study for this class' final exam). I had heard previously that the only downside to this class was the Professor is a little bit disorganized. I had thought, how bad could that possibly be? I can handle a bit of disorganization. If you're thinking that too, I implore you to take databases with any other professor. This level of disorganization results in unimaginable, unnecessary difficulty for students. To put my review into context, I received an A in the class. Yet I am tempted to audit databases by another professor next semester to better learn the content.
+Workload notes:
+5 homework assignments, some with part A and B, some with only part A. A final project -- full stack web app that the homework assignments were supposed to build up to, but we never got there.
+
+Review 7
+Review ID: 86988
+Submission date: 2025-05-05T16:02:09
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 2
+Agree/disagree/funny counts: 6/0/0
+Review text:
+This was supposed to be a useful and easy class. It did end up being relatively easy, and maybe it would’ve been useful if I had actually learnt much. Unfortunately, Professor Ferguson’s style (both teaching and otherwise) just doesn’t work for me.
+
+First, his teaching style: I realized during the very first lecture that I’d benefit more from watching them online. But even watching his 2.5-hour-long lectures on 2x wasn't very productive, so I settled for just reading the lecture slides and textbook. But even that was quickly replaced by just skimming through them. I could get by with just skimming the notes because the homework was very easy, and googling whatever concepts you needed was far more efficient. This way of learning helped me do well (enough) in the class, but I honestly don’t feel like I learned what I was supposed to.
+
+Next, the overall course management was extremely stressful and felt inconsiderate. I didn’t know anyone in class, so I intended to rely on Ed for help. But they fostered an environment where asking questions was discouraged. TAs randomly decided which posts to respond to, and most answers were vague or unhelpful. The professor sometimes responded rudely or mocked students for asking dumb questions, which made me very hesitant to post anything myself. He would make big announcements in class and never officially announce them on Ed. And they weren't very accommodating when asked for things like extensions (at least in my case).
+
+I do want to note that Professor Ferguson is a kind person in general. He cancels class when campus is stressful (protests, police presence, etc.) and frequently asks for feedback for certain things and implements it. But I wish he would make bigger changes in how the class is taught. It was very disorganized and stressful, so only take it if you are okay with ambiguous instructions and confusing teaching staff in exchange for an easy 4000-level CS class.
+Workload notes:
+There were supposed to be around 5 assignments (most with parts A and B), a midterm and final, and a project. The workload is pretty manageable, and grading is lenient. But they cancel assignments at random, change deadlines at random, so anything could change at any point.
+
+Review 8
+Review ID: 86854
+Submission date: 2025-04-24T11:57:05
+Course: COMS W4111 Introduction to Databases
+Professor: Kenneth Ross
+Rating: 4
+Agree/disagree/funny counts: 0/0/0
+Review text:
+This was a super chill class. Ross goes much slower than any other CS prof I've ever had. Most of class is introducing a topic, and then slowly working through examples to cover every (corner) case of it, with plenty of time for questions. He records lectures and posts his notes.
+Workload notes:
+4 parts of a project that you do in a pair. Parts of the project could be quite tedious and not directly related to course content (for example, spending hours trying to clean up data to insert into your database) but ultimately you end up with a cool end result. 
+2 homework assignments
+1 midterm 
+1 final (cumulative)
+
+Review 9
+Review ID: 86646
+Submission date: 2025-03-14T13:29:15
+Course: COMS W4111 Introduction to Databases
+Professor: Luis Gravano
+Rating: 4
+Agree/disagree/funny counts: 10/0/1
+Review text:
+Professor Gravano is overall a great Professor. In this class, you will learn mostly about SQL databases. You will learn how to design a proper database schema which enforces integrity constraints, how to implement this schema using PostgreSQL, and how to use and interact with a database server. These are all very useful for people who want to go into software engineering
+
+There are also some more niche topics covered (e.g. how database locks work to ensure atomic transactions) which are not as practical, but still very helpful.
+Workload notes:
+There are two exams (one midterm and one final) which are reasonable and fairly similar to the practice exams made available. There is also one big project throughout most of the semester, which has several parts. The project consists on designing a database for an application, implementing it in SQL, populating it with data, and ultimately building a simple web app that uses it. This project was extremely helpful to understand how to use SQL databases in practice. The grading for the project is very forgiving. Just turn in everything on time and you will be fine
+
+Review 10
+Review ID: 86611
+Submission date: 2025-02-25T04:25:38
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 1
+Agree/disagree/funny counts: 3/1/0
+Review text:
+This is the most chaotic CS class and its going horribly!! Please do not take this class, there are different versions of the HW assignments, you never know what's actually going on at the moment and Prof and TA's are barely responsive on Ed Stem.
+Workload notes:
+Bi Weekly Assignments, some are skipped some are done randomly
+
+Review 11
+Review ID: 85904
+Submission date: 2024-12-08T11:26:07
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 1
+Agree/disagree/funny counts: 10/1/0
+Review text:
+Please please please, do NOT go take this course. The information taught is very useful, but please, take it with another professor, because Ferguson was the worst professor I have ever taken a course with so far at Columbia. Maybe this course was fine in the past, but I don't know what happened recently - he has made it a living hell. His lectures are incredibly disorganized, and I'm not even sure if we have a set syllabus yet, and it's the end of the semester. No one goes to class because no one can learn from him in person (not that he even was in person most of the time), and his teaching style was just...awful. I have no words. I'm sure he's a nice person and all, but he CANNOT teach, nor does he seem to care about how well his students do. Before the midterm, he gave us a sample midterm with no solutions and NONE of our homeworks were graded until AFTER THE MIDTERM, so there's just no possibility of us learning at all from our mistakes. He also gave wrong information in his lectures...but that's a different issue. Overall, it's an important class, but please take it with another professor, or learn it by yourself! This class has been incredibly and needlessly stressful, and I really think I didn't learn anything at all anyway. Please, I recommend avoiding this class at all cost.
+Workload notes:
+Ykw, I'm not even sure. He never seemed to finalize the syllabus, or maybe it's so well hidden that I haven't even seen it yet. 25% hw, 25% in-person midterm, and 50% in-person final, and we get only 1 cheat sheet. Again, make the smartest decision for yourself and avoid this class.
+
+Review 12
+Review ID: 85802
+Submission date: 2024-12-02T00:13:52
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 2
+Agree/disagree/funny counts: 10/1/0
+Review text:
+People call him rude; that's probably true, but he usually repents and apologizes if pressed. The problem with this class is not the professor's attitude. It is the utter incoherence and disorganization of the lectures and homework. 
+
+Professor Ferguson organized the lectures such that around three different topics are being covered in parallel throughout a lecture, rather than covering one in full and then moving on. He also does not prepare any of the code that he is writing beforehand, causing him to spend 20 minutes at a time trying to figure out what is wrong with the non-functioning code. The rest of the lectures are PowerPoint shows, and he is prone to rambling. I do not recommend showing up to live lectures; he records them, and watching them at 2x speed and jumping around when you need to is MUCH more efficient.
+
+My impression of the homework was that it was not planned in advance at all. None of the assignments were graded until halfway into the semester. We were told that there would be 5 assignments, and that we would slowly build up a capstone project throughout the semester - this did not happen. Instead, we got 3 assignments, and the capstone was given to us around the second to last week of class.
+
+Office hours are not consistent. He will announce them an hour before he opens them up. 
+
+Highly recommend taking this class with a different professor. One of the most frustrating experiences I have had at Columbia so far.
+Workload notes:
+Workload was fine. Grading is not harsh at all - on the contrary, it is quite generous.
+
+Review 13
+Review ID: 85771
+Submission date: 2024-11-27T00:27:44
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 2
+Agree/disagree/funny counts: 3/2/0
+Review text:
+This dude is not a professor but someone who uses this "teaching" job to supplement his income. I guess they are not paying him enough at his actual job at ANSYS as CTO or tech fellow? Given his attitude and the effort he puts into this course, he considers it a joke, and so should you. Best advice if you have to take this course: avoid him at all costs and just do the assignments on your own or with a group. The course is not that hard, but it's just made hard deliberately because this guy is so horrible.
+
+He's another overly sensitive instructor from Columbia that teaches with a chip on his shoulder because he's as fragile as a snowflake. If you so much as look at him the wrong way, he'd probably trip over himself! He doxes students and often bullies them on Ed if they ask a question that he's "clearly explained before" in one of his incredibly difficult to understand "lectures". Well smart ass, if multiple people are asking it, did you really explain it that clearly? Perhaps there is a problem with the way you're teaching?
+
+He fails students on the spot, but somehow isn't clever enough to detect the hordes of Chinese students that stay up very late to get their homework assignments and exams completed by someone in mainland China and all submit literally the same answers, lol. Office hours are announced a few moments before they are actually held. The content of the course is explained in such a confusing way, you're better off just learning it on your own. Most of it does not relate to the assignments at all.
+
+If this guy transferred that vindictive energy into making this course better, it would probably be worth taking.
+
+Only take if you absolutely have to.
+Workload notes:
+Overly complicated, long, assignments that will take hours just to understand what is being asked because the wording and language is so vague and confusing, than hours upon endless hours to actually complete once you understand what is being asked. The TAs were decent for this course, so I had to use a full TA off hour JUST TO UNDERSTAND WHAT WAS BEING ASKED IN THE ASSIGNMENTS!!
+
+Review 14
+Review ID: 85507
+Submission date: 2024-10-05T12:08:31
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 3
+Agree/disagree/funny counts: 3/1/1
+Review text:
+Ferguson has got to be the funniest terrible professor ever. He makes these random jokes out of nowhere, while going through the materials in a weirdly organized order. expect a lot of unexpected announcements, and take his class if you are the type to not take classes too seriously. you learn from his class as much as you want, its up to you whether you want to learn or not.
+Workload notes:
+lots of work, but also everything is covered by class material. you just need to spend time to look for them. hes communicative through ed.
+
+Review 15
+Review ID: 85433
+Submission date: 2024-08-16T09:44:49
+Course: COMS W4111 Introduction to Databases
+Professor: Donald Ferguson
+Rating: 5
+Agree/disagree/funny counts: 0/12/0
+Review text:
+I absolutely loved this class. It literally caused me to excel in my other classes, and regain hope in Columbia CS. The professor is kind and hilarious. I actually learned a lot, and didn't wipe it out of my brain after the class. 
+
+Prof Ferguson both gives readings, visual demonstrations (through graphing how data would flow), gives slides, and doesn't walk alongs. He also records classes. There is a lot of content, but it is very approachable because he explains conceptually how it works very clearly and so even though there is a lot of technical new skills you have to learn, they seem obvious given the conceptual understanding. Also gets easier given the amount of both practice through homework and in class examples. 
+
+He is very approachable, kind, and genuinely seems to care. It is both his personality and teaching style that literally made be excited to go to class, and even do the homework. He is my far the best professor in the CS department and dare I say all of SEAS.
+Workload notes:
+Grading: 50% homework, 20% midterm, 30% final 
+There is a homework assignment about every 2 weeks. (average for CS dept.) 
+His grading was very fair. He didn't have extremely strict formatting, and there was room for creativity, but it was clear what he was looking for in the homeworks. 
+About 4-5 for homework but more time for reviewing notes and class as you are completing the homework since there is a lot of content.
