@@ -15,7 +15,7 @@ Retrieved chunks:
 3. COMS W3203 | Tony Dear | distance=0.471 | `documents/coms-w3203-discrete-math.txt` — Source: COMS W3203 Discrete Mathematics CULPA reviews Source URL: https://culpa.info/course/397 Course: COMS W3203 Discrete Mathematics Professor: Tony Dear Review ID: 89971 Submitted: 2026-05-25T13:26:58 Rating: 4 Part 
 
 Response:
-Reviewers say that Tony Dear's exams are difficult [S1, S2, S4]. They note that the exams can be challenging and may require careful thinking and problem-solving [S3]. However, reviewers also mention that the class is graded on a curve [S1, S2, S5], which helps to compensate for the extra rigor of the exams [S5]. The curve is applied to the end grade [S5] or the overall score, with one reviewer mentioning that the curve is to around a B+ [S1].
+Reviewers say that Tony Dear's exams are difficult [S1, S2, S4]. They note that the exams can be challenging and may require careful thinking and problem-solving [S3]. However, reviewers also mention that the class is graded on a curve [S1, S2, S5], which helps to compensate for the extra rigor of the exams [S5]. The curve is applied to the end grade [S5] or the overall score [S1], with one reviewer mentioning that the curve is around a B+ [S1].
 
 Sources:
 - [S1] COMS W3203 Discrete Mathematics | Tony Dear | review 89811 | documents/coms-w3203-discrete-math.txt; distance=0.408; https://culpa.info/course/397
@@ -38,7 +38,7 @@ Retrieved chunks:
 3. COMS W3157 | Jae Lee | distance=0.396 | `documents/coms-w3157-advanced-programming.txt` — Source: COMS W3157 Advanced Programming CULPA reviews Source URL: https://culpa.info/course/4758 Course: COMS W3157 Advanced Programming Professor: Jae Lee Review ID: 86419 Submitted: 2025-01-13T13:43:22 Rating: 5 Part 4
 
 Response:
-Reviewers say that the workload for COMS W3157 Advanced Programming is significant, with some noting that Labs 6 and 7 require a lot of time [S1]. They also mention that the labs hold too little weight for the amount of work required [S1]. Reviewers recommend starting labs early, as reinforcing concepts early pays off in this fast-paced class [S3]. Additionally, reviewers note that the exams can be challenging, but the problems come directly from lectures and labs, and practice exams are essential for preparation [S1, S3]. Some reviewers also mention that the class can be very difficult, with a significant amount of time required for the last two labs [S5]. However, they also find the class satisfying and worthwhile, with one reviewer noting that the workload is worth it [S4]. Reviewers also appreciate the generous curve on exams [S2].
+Reviewers say that the workload for COMS W3157 Advanced Programming is significant, with some noting that the last two labs (Labs 6 and 7) require a substantial amount of time [S1]. They also mention that the labs hold too little weight for the amount of work required [S1]. Reviewers recommend starting labs early to reinforce concepts [S3] and note that the class can be very difficult, with some estimating around 7 hours of work per week, plus additional time for exam cramming [S4]. Regarding exams, reviewers say that practice exams are essential for preparation [S1], that the generous curve can be beneficial [S2], and that the exams test understanding to the finest detail, with some problems offering generous partial credit [S3]. Overall, reviewers find the workload worth it, despite the challenges [S4], [S5].
 
 Sources:
 - [S1] COMS W3157 Advanced Programming | Jae Lee | review 88886 | documents/coms-w3157-advanced-programming.txt; distance=0.338; https://culpa.info/course/4758
@@ -61,7 +61,7 @@ Retrieved chunks:
 3. COMS W4111 | Kenneth Ross | distance=0.396 | `documents/coms-w4111-databases.txt` — Source: COMS W4111 Introduction to Databases CULPA reviews Source URL: https://culpa.info/course/664 Course: COMS W4111 Introduction to Databases Professor: Kenneth Ross Review ID: 88530 Submitted: 2025-12-20T19:19:09 Ra
 
 Response:
-Reviewers mention a big project that consists of designing a database for an application, implementing it in SQL, populating it with data, and ultimately building a simple web app that uses it [S1, S2]. They also mention homework assignments (HWs) [S4] and exams (midterm and final) [S2, S4, S5], but the specific project technologies mentioned are SQL and a simple web app [S1, S2].
+Reviewers mention a big project that consists of designing a database for an application, implementing it in SQL, populating it with data, and ultimately building a simple web app that uses it [S1, S2]. They also mention homework assignments (HWs), with one reviewer stating that there were supposed to be 5 HWs but only 4 were assigned [S4]. Additionally, reviewers mention exams, including a midterm and a final, with one reviewer noting that the exams are in-person and that students are allowed only one cheat sheet [S4, S5].
 
 Sources:
 - [S1] COMS W4111 Introduction to Databases | Luis Gravano | review 86646 | documents/coms-w4111-databases.txt; distance=0.377; https://culpa.info/course/664
@@ -84,7 +84,7 @@ Retrieved chunks:
 3. COMS W4115 | Ronghui Gu | distance=0.460 | `documents/coms-w4115-plt.txt` — Source: COMS W4115 Programming Languages and Translators CULPA reviews Source URL: https://culpa.info/course/3105 Course: COMS W4115 Programming Languages and Translators Professor: Ronghui Gu Review ID: 85512 Submitted:
 
 Response:
-Reviewers say that the project in COMS W4115 PLT is "monstrous" and requires good teammates to decide on features and implement them together [S2]. They also mention that OCaml can be "very frustrating" but will uncover new areas of software development [S2], and that it's a "super weird and fun language" [S3]. Additionally, some reviewers note that the TAs may not be knowledgeable about OCaml, which can be frustrating for students working on the project [S1, S4].
+Reviewers say that the project in COMS W4115 PLT is "monstrous" and requires good teammates to decide on features and implement them together [S2]. They also mention that OCaml can be "very frustrating" but will uncover new areas of software development [S2, S3]. One reviewer notes that they didn't fully understand the project they worked on, even the features they implemented, and felt like they "stumbled around in the dark" [S1]. Another reviewer found OCaml to be "super weird and fun" [S3].
 
 Sources:
 - [S1] COMS W4115 Programming Languages and Translators | Stephen Edwards | review 83055 | documents/coms-w4115-plt.txt; distance=0.416; https://culpa.info/course/3105
@@ -107,7 +107,7 @@ Retrieved chunks:
 3. COMS W4701 | Ansaf Salleb-Aouissi | distance=0.494 | `documents/coms-w4701-artificial-intelligence.txt` — Source: COMS W4701 Artificial Intelligence CULPA reviews Source URL: https://culpa.info/course/26 Course: COMS W4701 Artificial Intelligence Professor: Ansaf Salleb-Aouissi Review ID: 83233 Submitted: 2021-04-01T00:00:00
 
 Response:
-Reviewers say that Ansaf Salleb-Aouissi's homework assignments for COMS W4701 AI were "tedious at times" [S2], but served as a way to put concepts into practice [S2]. The assignments were a balance of coding and conceptual work, with 5 coding assignments and 5 conceptual assignments [S1, S2]. Reviewers describe the exams as "difficult" [S4], but note that the curve helped [S4]. One reviewer mentions that the lowest coding and conceptual grades were dropped [S1].
+Reviewers say that Ansaf Salleb-Aouissi's homework assignments for COMS W4701 AI were "tedious at times" [S2], but served as a way to put concepts into practice [S2]. The balance between coding and conceptual assignments was seen as a positive aspect [S2]. However, one reviewer criticized the coding portion, stating that a "buggy script determines your grade" [S3]. Regarding exams, reviewers describe them as "difficult" [S4], with a "time crunch" [S4], but note that the curve helps [S4]. [S1] and [S2] also mention that the class had 5 coding assignments and 5 conceptual assignments, and two exams throughout the semester.
 
 Sources:
 - [S1] COMS W4701 Artificial Intelligence | Ansaf Salleb-Aouissi | review 86239 | documents/coms-w4701-artificial-intelligence.txt; distance=0.436; https://culpa.info/course/26
